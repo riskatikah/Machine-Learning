@@ -1,0 +1,111 @@
+Store_ID,Machine_ID,Machine_Model,Total_Sales,Coffee_Type,Days_In_Operation,Avg_Daily_Processes,Duration_Per_Request,Total_Minutes_Per_Day,Total_Hours_Per_Day,Maintenance_Needed,Last_Maintenance_Date,Utilization_Rate,Avg_Error_Per_Day
+Store_D,Machine_93,Drip_Brew_3000,6234,Cappuccino,101,61.72,2.51,154.91719999999998,2.58,True,2025-02-01,10.75,0.0396
+Store_D,Machine_24,Drip_Brew_3000,7449,Cold Brew,287,25.95,0.5,12.975,0.22,False,2025-02-10,0.92,0.0035
+Store_E,Machine_89,Espresso_X,3058,Cappuccino,88,34.75,1.13,39.2675,0.65,False,2025-02-01,2.71,0.0227
+Store_D,Machine_55,ColdBrew_Pro,4056,Espresso,160,25.35,,81.8805,1.36,False,2025-01-15,5.67,0.0188
+Store_A,Machine_60,Latte_Maker,8013,Latte,294,27.26,0.94,25.6244,0.43,False,2025-02-01,1.79,0.0102
+Store_E,Machine_8,,3652,Cappuccino,235,15.54,1.66,25.7964,0.43,False,2025-02-01,1.79,0.0043
+Store_D,Machine_54,Espresso_X,6175,Latte,247,25.0,4.73,118.25000000000001,1.97,False,2025-02-01,8.21,0.0121
+Store_A,Machine_62,ColdBrew_Pro,8416,Cold Brew,237,35.51,1.72,61.0772,1.02,False,2025-02-01,4.25,0.0127
+Store_D,Machine_41,,8506,Cold Brew,94,90.49,2.41,218.0809,3.63,False,2025-01-15,15.12,0.0213
+Store_C,Machine_81,ColdBrew_Pro,6392,Cappuccino,318,20.1,4.67,93.867,1.56,False,,6.5,0.0
+Store_D,Machine_34,Espresso_X,3231,Cold Brew,128,25.24,3.37,85.05879999999999,1.42,False,2025-02-01,5.92,0.0312
+Store_C,Machine_1,,9562,Latte,284,33.67,0.68,22.8956,0.38,False,2025-01-15,1.58,0.0106
+Store_E,Machine_51,Drip_Brew_3000,5616,Espresso,81,69.33,2.79,193.4307,3.22,False,2025-01-15,13.42,0.0494
+Store_C,Machine_29,ColdBrew_Pro,3657,Cold Brew,189,19.35,4.46,86.301,1.44,False,2025-01-15,6.0,0.0212
+Store_D,Machine_28,ColdBrew_Pro,5950,Drip Coffee,315,18.89,1.96,37.0244,0.62,False,,2.58,0.0
+Store_A,Machine_27,Latte_Maker,6364,Espresso,145,43.89,1.87,82.07430000000001,1.37,False,2025-02-01,5.71,0.0276
+Store_A,Machine_51,Latte_Maker,2498,Drip Coffee,181,13.8,1.26,17.388,0.29,False,2025-02-01,1.21,0.0166
+Store_A,Machine_62,Espresso_X,1791,Latte,81,22.11,1.63,36.0393,0.6,False,2025-02-01,2.5,0.0
+Store_A,Machine_59,Espresso_X,1354,Latte,159,8.52,1.75,14.91,0.25,False,2025-01-15,1.04,0.0063
+Store_E,Machine_44,Latte_Maker,4718,Drip Coffee,232,20.34,1.59,32.3406,0.54,False,2025-02-01,2.25,0.0043
+Store_C,Machine_16,Espresso_X,4782,Espresso,153,31.25,1.34,41.875,0.7,True,2025-02-01,2.92,0.0131
+Store_D,Machine_19,Latte_Maker,3411,Cappuccino,176,19.38,0.93,18.0234,0.3,False,2025-02-01,1.25,0.0057
+Store_A,Machine_11,ColdBrew_Pro,6034,Espresso,180,33.52,4.45,149.16400000000002,2.49,False,2025-02-10,10.38,0.0056
+Store_A,Machine_60,Espresso_X,5048,Latte,333,15.16,,68.978,1.15,False,2025-02-01,4.79,0.006
+Store_C,Machine_48,ColdBrew_Pro,6697,Cappuccino,181,37.0,4.01,148.37,2.47,False,2025-01-15,10.29,0.0166
+Store_D,Machine_99,ColdBrew_Pro,2700,Espresso,128,21.09,0.52,10.966800000000001,0.18,False,2025-02-01,0.75,0.0156
+Store_E,Machine_41,ColdBrew_Pro,7444,Espresso,97,76.74,2.72,208.7328,3.48,False,2025-02-01,14.5,0.0206
+Store_A,Machine_33,ColdBrew_Pro,7393,Drip Coffee,51,144.96,3.15,456.624,7.61,False,2025-02-01,31.71,0.0392
+Store_C,Machine_98,Espresso_X,7522,Espresso,313,24.03,2.72,65.36160000000001,1.09,False,2025-02-10,4.54,0.0064
+Store_D,Machine_35,ColdBrew_Pro,7839,Espresso,46,170.41,4.73,806.0393,13.43,False,,55.96,0.0435
+Store_D,Machine_37,ColdBrew_Pro,1106,Cold Brew,331,3.34,,16.165599999999998,0.27,False,2025-01-15,1.13,0.0121
+Store_A,Machine_67,ColdBrew_Pro,6354,Latte,310,20.5,4.3,88.14999999999999,1.47,False,,6.12,0.0032
+Store_B,Machine_27,Latte_Maker,8596,Latte,302,28.46,1.11,31.590600000000002,0.53,False,2025-02-01,2.21,0.0033
+Store_B,Machine_99,Latte_Maker,7471,Espresso,42,177.88,,498.06399999999996,8.3,False,2025-02-10,34.58,0.0
+Store_D,Machine_87,Drip_Brew_3000,6419,Drip Coffee,351,18.29,3.1,56.699,0.94,True,,3.92,0.0114
+Store_B,Machine_58,Latte_Maker,5277,Espresso,209,25.25,4.2,106.05000000000001,1.77,False,2025-01-15,7.38,0.0
+Store_E,Machine_60,ColdBrew_Pro,5722,Drip Coffee,34,168.29,0.88,148.0952,2.47,True,2025-02-01,10.29,0.0588
+Store_D,Machine_16,Espresso_X,2193,Latte,153,14.33,0.68,9.7444,0.16,False,2025-02-01,0.67,0.0065
+Store_B,Machine_90,Espresso_X,1581,Espresso,158,10.01,4.62,46.2462,0.77,False,2025-01-15,3.21,0.0
+Store_E,Machine_1,ColdBrew_Pro,1080,Cold Brew,221,4.89,3.25,15.892499999999998,0.26,False,2025-01-15,1.08,0.009
+Store_E,Machine_86,,5688,Cold Brew,249,22.84,0.92,21.012800000000002,0.35,False,,1.46,0.0161
+Store_D,Machine_16,Latte_Maker,7921,Latte,68,116.49,2.45,285.4005,4.76,False,2025-02-10,19.83,0.0588
+Store_D,Machine_34,ColdBrew_Pro,2989,Latte,279,10.71,2.75,29.4525,0.49,False,2025-02-10,2.04,0.0036
+Store_A,Machine_92,ColdBrew_Pro,7333,Cappuccino,181,40.51,3.08,124.7708,2.08,False,2025-02-10,8.67,0.011
+Store_E,Machine_12,Drip_Brew_3000,4413,Espresso,197,22.4,1.43,32.032,0.53,False,2025-01-15,2.21,0.0051
+Store_E,Machine_35,,9467,Espresso,119,79.55,2.23,177.3965,2.96,False,,12.33,0.0168
+Store_A,Machine_7,ColdBrew_Pro,912,Latte,143,6.38,0.68,4.3384,0.07,False,,0.29,0.021
+Store_B,Machine_73,ColdBrew_Pro,1622,Cappuccino,206,7.87,2.36,18.5732,0.31,False,2025-02-10,1.29,0.0194
+Store_D,Machine_55,Espresso_X,9287,Espresso,315,29.48,4.22,124.40559999999999,2.07,False,2025-02-10,8.62,0.0
+Store_D,Machine_12,,4860,Espresso,105,46.29,,89.8026,1.5,False,,6.25,0.019
+Store_B,Machine_16,Espresso_X,4991,Cold Brew,128,38.99,1.98,77.20020000000001,1.29,False,2025-02-10,5.38,0.0
+Store_E,Machine_53,Latte_Maker,5229,Latte,252,20.75,2.49,51.667500000000004,0.86,False,,3.58,0.004
+Store_D,Machine_9,Latte_Maker,2042,Latte,282,7.24,2.42,17.5208,0.29,False,2025-02-01,1.21,0.0071
+Store_B,Machine_66,Espresso_X,6041,Cold Brew,194,31.14,4.94,153.8316,2.56,False,2025-02-01,10.67,0.0155
+Store_A,Machine_71,Espresso_X,3641,Cold Brew,161,22.61,3.69,83.4309,1.39,False,2025-02-01,5.79,0.0124
+Store_B,Machine_90,Drip_Brew_3000,5248,Cappuccino,202,25.98,2.32,60.273599999999995,1.0,False,2025-02-10,4.17,0.0198
+Store_A,Machine_39,Espresso_X,1004,Cappuccino,219,4.58,2.19,10.0302,0.17,False,2025-02-10,0.71,0.0183
+Store_B,Machine_44,Espresso_X,5410,Cold Brew,346,15.64,4.51,70.5364,1.18,False,,4.92,0.0116
+Store_D,Machine_99,Drip_Brew_3000,1756,Drip Coffee,76,23.11,1.48,34.202799999999996,0.57,False,,2.37,0.0263
+Store_A,Machine_75,ColdBrew_Pro,5563,Latte,253,21.99,2.28,50.13719999999999,0.84,False,2025-02-01,3.5,0.004
+Store_D,Machine_36,Latte_Maker,1039,Latte,345,3.01,0.85,2.5584999999999996,0.04,False,,0.17,0.0
+Store_A,Machine_33,Espresso_X,1424,Drip Coffee,249,5.72,1.1,6.292,0.1,True,,0.42,0.008
+Store_E,Machine_47,Espresso_X,3371,Latte,39,86.44,4.44,383.7936,6.4,False,2025-01-15,26.67,0.0
+Store_A,Machine_18,ColdBrew_Pro,7949,Espresso,296,26.85,2.21,59.3385,0.99,False,2025-02-10,4.12,0.0135
+Store_A,Machine_98,Espresso_X,2500,Cappuccino,340,7.35,2.9,21.314999999999998,0.36,False,,1.5,0.0118
+Store_E,Machine_37,Latte_Maker,7745,Latte,112,69.15,1.42,98.193,1.64,False,2025-01-15,6.83,0.0268
+Store_A,Machine_32,Latte_Maker,7739,Drip Coffee,124,62.41,0.6,37.446,0.62,False,2025-02-01,2.58,0.0161
+Store_C,Machine_50,ColdBrew_Pro,8927,Espresso,83,107.55,3.02,324.801,5.41,False,2025-02-01,22.54,0.0482
+Store_E,Machine_14,Latte_Maker,7381,Cappuccino,132,55.92,2.08,116.31360000000001,1.94,False,2025-02-01,8.08,0.0152
+Store_C,Machine_63,Latte_Maker,4761,Drip Coffee,278,17.13,2.53,43.338899999999995,0.72,False,,3.0,0.0036
+Store_C,Machine_81,Espresso_X,6827,Cold Brew,167,40.88,4.29,175.3752,2.92,False,2025-01-15,12.17,0.024
+Store_B,Machine_6,,6769,Latte,234,28.93,3.35,96.91550000000001,1.62,False,2025-01-15,6.75,0.0
+Store_C,Machine_16,ColdBrew_Pro,8972,Drip Coffee,213,42.12,4.54,191.2248,3.19,False,2025-02-10,13.29,0.0047
+Store_E,Machine_51,Drip_Brew_3000,6085,Cold Brew,34,178.97,1.75,313.1975,5.22,False,2025-01-15,21.75,0.0
+Store_E,Machine_12,Latte_Maker,7740,Latte,107,72.34,,66.5528,1.11,False,2025-02-10,4.63,0.0187
+Store_E,Machine_81,Latte_Maker,1776,Drip Coffee,286,6.21,4.94,30.677400000000002,0.51,False,,2.12,0.0035
+Store_D,Machine_87,Latte_Maker,5121,Latte,183,27.98,1.16,32.4568,0.54,False,2025-02-10,2.25,0.0109
+Store_D,Machine_18,Latte_Maker,8652,Cappuccino,44,196.64,3.82,751.1647999999999,12.52,False,2025-02-01,52.17,0.0
+Store_B,Machine_44,Espresso_X,6668,Espresso,42,158.76,3.56,565.1856,9.42,False,2025-02-01,39.25,0.0714
+Store_B,Machine_8,ColdBrew_Pro,7238,Espresso,265,27.31,2.2,60.082,1.0,False,2025-02-10,4.17,0.0038
+Store_C,Machine_56,Drip_Brew_3000,1960,Cold Brew,258,7.6,0.96,7.295999999999999,0.12,False,,0.5,0.0116
+Store_C,Machine_62,Latte_Maker,8934,Espresso,276,32.37,0.58,18.774599999999996,0.31,False,,1.29,0.0036
+Store_D,Machine_92,Drip_Brew_3000,9337,Drip Coffee,364,25.65,4.89,125.42849999999999,2.09,False,2025-02-10,8.71,0.0
+Store_B,Machine_79,Drip_Brew_3000,6969,Latte,202,34.5,4.86,167.67000000000002,2.79,False,2025-01-15,11.62,0.0149
+Store_A,Machine_12,Drip_Brew_3000,2328,Espresso,119,19.56,2.78,54.376799999999996,0.91,False,2025-02-01,3.79,0.0168
+Store_A,Machine_6,Latte_Maker,6538,Latte,290,22.54,2.97,66.9438,1.12,False,2025-02-10,4.67,0.0103
+Store_A,Machine_63,Espresso_X,3324,Espresso,302,11.01,3.18,35.0118,0.58,False,2025-02-01,2.42,0.0
+Store_E,Machine_62,ColdBrew_Pro,2408,Drip Coffee,363,6.63,,25.1277,0.42,False,2025-01-15,1.75,0.0055
+Store_A,Machine_40,ColdBrew_Pro,5968,Drip Coffee,349,17.1,1.13,19.323,0.32,False,2025-01-15,1.33,0.0057
+Store_E,Machine_37,Espresso_X,8077,Cappuccino,107,75.49,4.59,346.49909999999994,5.77,False,2025-02-01,24.04,0.0093
+Store_C,Machine_38,Espresso_X,2692,Espresso,182,14.79,4.55,67.2945,1.12,False,2025-02-01,4.67,0.011
+Store_C,Machine_70,,8635,Cappuccino,208,41.51,3.62,150.2662,2.5,False,2025-02-10,10.42,0.0
+Store_D,Machine_94,Drip_Brew_3000,1620,Cappuccino,186,8.71,3.68,32.052800000000005,0.53,False,2025-01-15,2.21,0.0161
+Store_B,Machine_10,Espresso_X,6528,Cappuccino,359,18.18,1.0,18.18,0.3,False,2025-01-15,1.25,0.0111
+Store_E,Machine_29,Drip_Brew_3000,4256,Drip Coffee,361,11.79,3.74,44.0946,0.73,False,2025-02-10,3.04,0.0083
+Store_B,Machine_43,Drip_Brew_3000,6666,Cold Brew,177,37.66,2.58,97.16279999999999,1.62,False,2025-01-15,6.75,0.0226
+Store_B,Machine_89,Espresso_X,4031,Drip Coffee,200,20.16,0.96,19.3536,0.32,False,2025-02-10,1.33,0.02
+Store_B,Machine_92,Drip_Brew_3000,7696,Latte,80,96.2,0.97,93.31400000000001,1.56,False,,6.5,0.0
+Store_E,Machine_21,Latte_Maker,3530,Drip Coffee,211,16.73,4.64,77.6272,1.29,False,2025-02-01,5.38,0.019
+Store_A,Machine_53,Espresso_X,4712,Latte,342,13.78,,44.3716,0.74,False,2025-02-01,3.08,0.0029
+Store_B,Machine_79,Drip_Brew_3000,6969,Latte,202,34.5,4.86,167.67000000000002,2.79,False,2025-01-15,11.62,0.0149
+Store_B,Machine_66,Espresso_X,6041,Cold Brew,194,31.14,4.94,153.8316,2.56,False,2025-02-01,10.67,0.0155
+Store_C,Machine_81,Espresso_X,6827,Cold Brew,167,40.88,4.29,175.3752,2.92,False,2025-01-15,12.17,0.024
+Store_E,Machine_35,,9467,Espresso,119,79.55,2.23,177.3965,2.96,False,,12.33,0.0168
+Store_E,Machine_12,Drip_Brew_3000,4413,Espresso,197,22.4,1.43,32.032,0.53,False,2025-01-15,2.21,0.0051
+Store_E,Machine_1,ColdBrew_Pro,1080,Cold Brew,221,4.89,3.25,15.892499999999998,0.26,False,2025-01-15,1.08,0.009
+Store_A,Machine_11,ColdBrew_Pro,6034,Espresso,180,33.52,4.45,149.16400000000002,2.49,False,2025-02-10,10.38,0.0056
+Store_C,Machine_56,Drip_Brew_3000,1960,Cold Brew,258,7.6,0.96,7.295999999999999,0.12,False,,0.5,0.0116
+Store_D,Machine_34,Espresso_X,3231,Cold Brew,128,25.24,3.37,85.05879999999999,1.42,False,2025-02-01,5.92,0.0312
+Store_D,Machine_93,Drip_Brew_3000,6234,Cappuccino,101,61.72,2.51,154.91719999999998,2.58,True,2025-02-01,10.75,0.0396

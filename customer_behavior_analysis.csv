@@ -1,0 +1,1001 @@
+Customer_ID,Age,Gender,Location,Income_Level,Purchase_History,Last_Visit,Category_Preference,Cart_Abandonment_Rate,Customer_Satisfaction
+CUST0001,32,Male,Seattle,Medium,1476.4,141,Beauty & Health,0.39,3
+CUST0002,48,Male,Boston,High,4007.01,349,Beauty & Health,0.92,1
+CUST0003,46,Female,San Francisco,High,1101.99,59,Sports,0.69,2
+CUST0004,61,Male,Miami,High,1394.66,100,Toys,0.65,2
+CUST0005,45,Female,Denver,Medium,4465.48,4,Books,0.8,4
+CUST0006,66,Male,Chicago,Medium,1686.74,40,Books,0.88,5
+CUST0007,70,Female,Houston,Medium,4417.73,7,Home & Furniture,0.79,1
+CUST0008,23,Female,San Francisco,Low,667.3,149,Sports,0.75,5
+CUST0009,65,Male,Los Angeles,Low,3964.91,187,Groceries,0.44,4
+CUST0010,63,Female,Los Angeles,High,4241.25,83,Beauty & Health,0.02,1
+CUST0011,19,Female,Boston,Low,4833.29,145,Groceries,0.27,1
+CUST0012,29,Male,Denver,High,3172.99,323,Sports,0.79,3
+CUST0013,51,Female,New York,Low,4373.45,213,Sports,0.03,4
+CUST0014,53,Male,Chicago,Medium,3389.27,32,Electronics,0.13,4
+CUST0015,18,Female,Denver,Medium,1115.37,87,Toys,0.14,2
+CUST0016,62,Female,Denver,Medium,3649.6,31,Home & Furniture,0.49,4
+CUST0017,70,Male,Houston,High,1494.18,155,Beauty & Health,0.71,5
+CUST0018,46,Female,Seattle,Medium,3667.77,217,Groceries,0.17,5
+CUST0019,59,Female,Boston,Medium,1051.65,142,Groceries,0.17,3
+CUST0020,22,Male,San Francisco,Medium,3279.98,103,Home & Furniture,0.84,5
+CUST0021,32,Male,Boston,High,2714.36,53,Beauty & Health,0.73,1
+CUST0022,58,Female,Seattle,Medium,598.94,5,Home & Furniture,0.12,3
+CUST0023,47,Male,San Francisco,Medium,4116.14,123,Beauty & Health,0.81,3
+CUST0024,49,Male,Houston,Low,738.79,280,Home & Furniture,0.9,4
+CUST0025,34,Male,Denver,High,418.98,95,Clothing,0.03,1
+CUST0026,42,Male,Miami,High,97.69,193,Home & Furniture,0.26,1
+CUST0027,69,Female,Miami,High,1966.75,155,Clothing,0.51,1
+CUST0028,25,Female,San Francisco,High,2856.84,312,Home & Furniture,0.68,1
+CUST0029,67,Male,Phoenix,High,3515.44,101,Clothing,0.96,5
+CUST0030,35,Female,New York,Medium,660.92,271,Books,0.04,4
+CUST0031,24,Female,New York,Medium,910.65,317,Electronics,0.78,4
+CUST0032,54,Female,Phoenix,High,2106.06,106,Books,0.68,5
+CUST0033,37,Female,Houston,Low,3431.6,279,Home & Furniture,0.93,1
+CUST0034,29,Male,Miami,High,1792.32,61,Books,0.21,5
+CUST0035,22,Female,San Francisco,Medium,1633.19,310,Electronics,0.26,2
+CUST0036,29,Male,San Francisco,Medium,1645.66,270,Books,0.2,3
+CUST0037,36,Female,Los Angeles,Medium,1917.48,210,Beauty & Health,0.76,2
+CUST0038,50,Female,Seattle,Medium,2935.82,258,Electronics,0.83,3
+CUST0039,18,Male,Chicago,Low,2685.5,85,Beauty & Health,0.45,2
+CUST0040,50,Female,Chicago,High,148.07,316,Electronics,0.39,4
+CUST0041,27,Female,San Francisco,Medium,2883.37,111,Groceries,0.32,4
+CUST0042,46,Female,Houston,Low,3488.44,68,Toys,0.23,3
+CUST0043,25,Female,New York,High,1439.81,296,Clothing,0.41,1
+CUST0044,44,Male,New York,Low,1688.99,208,Books,0.05,5
+CUST0045,45,Male,Boston,Medium,1583.3,110,Clothing,0.64,5
+CUST0046,32,Female,Chicago,Medium,2587.65,235,Beauty & Health,0.54,4
+CUST0047,57,Female,Miami,Low,3148.38,229,Clothing,0.12,5
+CUST0048,69,Female,Miami,Medium,1744.6,251,Sports,0.08,5
+CUST0049,54,Female,Phoenix,Medium,4810.13,3,Toys,0.09,1
+CUST0050,19,Female,Phoenix,High,2011.05,88,Electronics,0.58,5
+CUST0051,39,Male,Seattle,Medium,275.67,50,Groceries,0.01,5
+CUST0052,34,Female,Phoenix,High,4404.25,50,Toys,0.21,4
+CUST0053,44,Female,Miami,Low,4705.6,304,Clothing,0.59,4
+CUST0054,28,Female,Miami,High,2580.3,286,Books,0.65,1
+CUST0055,20,Male,Phoenix,Low,1846.14,304,Toys,0.84,1
+CUST0056,26,Female,Boston,Medium,3794.6,159,Books,0.44,5
+CUST0057,68,Female,Los Angeles,Low,2801.81,81,Toys,0.31,1
+CUST0058,32,Male,Chicago,Medium,2758.94,292,Groceries,0.14,2
+CUST0059,44,Female,Denver,Low,2217.2,121,Electronics,0.12,5
+CUST0060,41,Female,Miami,Low,802.14,223,Electronics,0.03,1
+CUST0061,22,Female,Houston,Medium,2739.76,295,Home & Furniture,0.96,5
+CUST0062,36,Female,Houston,Low,1250.05,109,Clothing,0.63,1
+CUST0063,57,Male,San Francisco,High,1939.81,97,Groceries,0.26,5
+CUST0064,36,Male,Boston,Medium,4027.85,309,Home & Furniture,0.47,4
+CUST0065,23,Male,Phoenix,Medium,4752.89,225,Beauty & Health,0.74,2
+CUST0066,29,Female,Boston,Low,3727.04,292,Beauty & Health,0.16,4
+CUST0067,61,Male,Chicago,Low,915.94,132,Sports,0.2,5
+CUST0068,34,Female,Phoenix,High,4731.21,271,Sports,0.77,1
+CUST0069,32,Male,Los Angeles,Low,2981.58,94,Clothing,0.45,1
+CUST0070,50,Female,San Francisco,Low,1353.75,54,Books,0.24,1
+CUST0071,24,Female,Houston,Low,150.49,176,Sports,0.98,5
+CUST0072,19,Female,Denver,Low,3646.74,281,Sports,0.11,3
+CUST0073,33,Female,Boston,Low,669.58,235,Books,0.13,4
+CUST0074,35,Male,Denver,Low,2049.28,305,Sports,0.58,5
+CUST0075,31,Male,Chicago,Medium,4224.76,53,Toys,0.57,2
+CUST0076,38,Male,Miami,Low,1042.34,281,Groceries,0.67,4
+CUST0077,26,Male,Boston,Low,3875.29,76,Toys,0.51,1
+CUST0078,34,Male,San Francisco,High,1847.82,132,Groceries,0.41,2
+CUST0079,49,Female,Chicago,Low,1145.21,26,Electronics,0.88,3
+CUST0080,65,Female,Miami,Low,1708.98,224,Toys,0.22,1
+CUST0081,23,Female,Los Angeles,Medium,3860.21,119,Books,0.86,1
+CUST0082,46,Female,Phoenix,Low,2767.57,74,Electronics,0.34,2
+CUST0083,55,Male,Miami,Low,3208.36,124,Toys,0.19,4
+CUST0084,62,Male,Boston,Low,1917.81,68,Electronics,0.22,2
+CUST0085,57,Male,Seattle,High,1893.01,215,Toys,0.16,4
+CUST0086,40,Female,Chicago,Low,3421.45,157,Books,0.7,1
+CUST0087,63,Male,New York,High,2105.38,66,Beauty & Health,0.34,5
+CUST0088,67,Male,Phoenix,High,4781.99,19,Books,0.07,3
+CUST0089,28,Male,Chicago,Low,2914.02,94,Clothing,0.7,1
+CUST0090,35,Female,Chicago,High,4869.0,152,Home & Furniture,0.29,4
+CUST0091,19,Female,Chicago,Medium,830.53,90,Clothing,0.72,2
+CUST0092,63,Male,Phoenix,Medium,3740.72,348,Clothing,0.71,3
+CUST0093,59,Male,San Francisco,High,243.98,350,Home & Furniture,0.52,5
+CUST0094,35,Female,Boston,Medium,3418.98,97,Electronics,0.55,3
+CUST0095,68,Male,Phoenix,Low,475.88,30,Toys,0.62,4
+CUST0096,57,Female,Seattle,Low,627.83,96,Clothing,0.17,4
+CUST0097,51,Male,Houston,Low,4573.33,364,Clothing,0.55,1
+CUST0098,27,Male,Los Angeles,High,3470.54,268,Books,0.66,3
+CUST0099,33,Female,Miami,High,967.65,332,Toys,0.51,4
+CUST0100,45,Male,Miami,High,638.77,287,Beauty & Health,0.6,2
+CUST0101,54,Male,Phoenix,High,1881.4,58,Sports,0.48,1
+CUST0102,33,Female,Denver,High,682.3,230,Groceries,0.17,4
+CUST0103,19,Male,Los Angeles,Low,1952.08,293,Electronics,0.21,5
+CUST0104,19,Male,Denver,High,4835.57,10,Electronics,0.74,5
+CUST0105,46,Female,Boston,Medium,2892.43,14,Home & Furniture,0.6,1
+CUST0106,34,Female,Houston,High,4157.55,182,Electronics,0.76,3
+CUST0107,23,Female,San Francisco,Low,1189.52,115,Books,0.89,3
+CUST0108,65,Male,Houston,High,4113.4,67,Groceries,0.1,5
+CUST0109,46,Male,Miami,Medium,1932.36,125,Toys,0.91,4
+CUST0110,30,Female,Denver,Medium,3330.38,263,Sports,0.19,3
+CUST0111,45,Male,New York,Low,4569.78,348,Electronics,0.23,5
+CUST0112,37,Female,Houston,Medium,1705.74,248,Books,0.08,5
+CUST0113,63,Female,New York,High,1751.63,323,Electronics,0.34,3
+CUST0114,65,Female,Boston,High,2535.05,283,Electronics,0.55,2
+CUST0115,47,Male,Denver,Medium,3396.8,228,Electronics,0.85,2
+CUST0116,39,Male,Seattle,Low,4494.86,252,Home & Furniture,0.09,5
+CUST0117,45,Female,Houston,Medium,648.54,275,Clothing,0.94,1
+CUST0118,47,Female,Denver,Medium,3555.75,214,Home & Furniture,0.45,5
+CUST0119,53,Female,New York,Medium,2271.28,281,Beauty & Health,0.18,5
+CUST0120,37,Female,Boston,High,2391.23,299,Home & Furniture,0.73,1
+CUST0121,57,Female,New York,Medium,801.88,123,Sports,0.31,2
+CUST0122,44,Female,New York,High,1280.72,344,Home & Furniture,0.71,2
+CUST0123,33,Male,San Francisco,High,3975.19,57,Electronics,0.95,5
+CUST0124,70,Male,New York,Medium,1989.67,52,Sports,0.54,4
+CUST0125,21,Female,Boston,High,3162.6,165,Beauty & Health,0.59,2
+CUST0126,70,Male,Houston,Low,660.91,158,Clothing,0.74,4
+CUST0127,28,Female,San Francisco,Low,3628.71,294,Beauty & Health,0.25,1
+CUST0128,27,Male,Seattle,High,545.25,300,Sports,0.19,5
+CUST0129,52,Male,Chicago,Medium,4802.91,364,Clothing,0.85,5
+CUST0130,55,Female,Seattle,High,3744.03,192,Electronics,0.6,5
+CUST0131,46,Male,Los Angeles,Low,3546.41,280,Books,0.38,4
+CUST0132,20,Female,Denver,High,4472.32,157,Home & Furniture,0.51,2
+CUST0133,31,Female,New York,High,239.17,45,Beauty & Health,0.64,3
+CUST0134,69,Female,Los Angeles,Medium,2980.32,287,Electronics,0.87,5
+CUST0135,47,Female,San Francisco,Low,4208.71,327,Sports,0.93,1
+CUST0136,38,Female,New York,High,4628.74,219,Home & Furniture,0.67,5
+CUST0137,26,Female,New York,High,2259.99,342,Home & Furniture,0.62,4
+CUST0138,33,Male,San Francisco,Medium,515.71,180,Home & Furniture,0.54,1
+CUST0139,44,Female,Seattle,Medium,2278.53,152,Groceries,0.02,1
+CUST0140,36,Male,Boston,Low,600.27,266,Sports,0.01,3
+CUST0141,58,Female,Denver,Low,2316.85,185,Electronics,0.81,1
+CUST0142,49,Male,Boston,Medium,897.93,339,Beauty & Health,0.57,4
+CUST0143,27,Female,Chicago,Low,475.61,43,Clothing,0.72,1
+CUST0144,42,Male,Chicago,Low,54.86,156,Groceries,0.31,2
+CUST0145,57,Male,Miami,High,1835.83,116,Beauty & Health,0.16,2
+CUST0146,29,Female,Chicago,High,3861.25,165,Books,0.75,5
+CUST0147,24,Female,Chicago,Low,2610.23,271,Clothing,0.8,4
+CUST0148,27,Male,Denver,High,2099.06,169,Sports,0.68,3
+CUST0149,43,Male,New York,High,4947.51,339,Home & Furniture,0.71,3
+CUST0150,27,Male,Phoenix,High,2023.03,14,Groceries,0.69,1
+CUST0151,22,Female,Miami,High,2770.44,2,Books,0.32,1
+CUST0152,54,Female,Seattle,Low,748.05,39,Sports,0.46,2
+CUST0153,24,Female,Denver,High,529.36,327,Books,0.99,5
+CUST0154,47,Female,Chicago,High,4337.11,359,Home & Furniture,0.78,1
+CUST0155,44,Male,Miami,Medium,3514.4,153,Clothing,0.34,4
+CUST0156,54,Male,Boston,High,3845.34,51,Clothing,0.38,3
+CUST0157,42,Male,San Francisco,Low,3711.62,197,Electronics,0.53,5
+CUST0158,58,Male,Seattle,Medium,1899.9,197,Home & Furniture,0.85,3
+CUST0159,56,Female,Denver,Medium,718.42,346,Home & Furniture,0.72,5
+CUST0160,64,Male,Chicago,Medium,3697.35,18,Electronics,0.8,4
+CUST0161,36,Male,Seattle,Medium,1116.28,88,Groceries,0.91,3
+CUST0162,70,Male,Denver,Low,217.1,365,Books,0.13,5
+CUST0163,27,Female,San Francisco,High,517.63,215,Books,0.54,5
+CUST0164,64,Female,San Francisco,Low,73.58,122,Sports,0.06,2
+CUST0165,68,Female,Denver,Low,4841.41,317,Beauty & Health,0.82,4
+CUST0166,32,Female,Seattle,High,1665.25,148,Books,0.69,4
+CUST0167,32,Female,Houston,High,751.22,216,Books,0.07,5
+CUST0168,48,Male,Los Angeles,Low,629.14,330,Books,0.33,2
+CUST0169,18,Male,Houston,High,3087.45,299,Books,0.5,1
+CUST0170,52,Male,Miami,High,1226.68,286,Clothing,0.86,3
+CUST0171,47,Female,Boston,Medium,3145.88,268,Electronics,0.13,3
+CUST0172,54,Male,Boston,Medium,4085.93,206,Toys,0.84,5
+CUST0173,58,Female,Denver,Low,3431.65,344,Toys,0.78,4
+CUST0174,69,Male,Miami,Medium,3538.37,319,Sports,0.9,5
+CUST0175,43,Female,San Francisco,High,3306.22,92,Electronics,0.88,1
+CUST0176,63,Male,Phoenix,High,1462.1,278,Beauty & Health,0.14,2
+CUST0177,45,Male,Seattle,Medium,277.82,334,Books,0.27,5
+CUST0178,26,Male,New York,Low,4210.08,269,Home & Furniture,0.79,5
+CUST0179,43,Female,Seattle,Low,2805.22,274,Sports,0.45,1
+CUST0180,36,Male,Miami,Low,136.98,94,Clothing,0.53,1
+CUST0181,27,Male,New York,Medium,3768.13,205,Books,0.82,3
+CUST0182,44,Male,Los Angeles,High,1318.08,155,Toys,0.27,1
+CUST0183,24,Female,Boston,Low,1912.6,236,Groceries,0.53,2
+CUST0184,64,Male,Denver,Medium,3097.18,133,Books,0.96,1
+CUST0185,69,Male,Seattle,High,4150.44,144,Groceries,0.49,5
+CUST0186,46,Male,Miami,Low,2936.48,270,Beauty & Health,0.05,5
+CUST0187,39,Male,New York,Medium,260.2,55,Home & Furniture,0.86,4
+CUST0188,19,Male,Houston,High,2293.62,141,Sports,0.91,5
+CUST0189,41,Male,Phoenix,Low,3391.86,266,Toys,0.81,4
+CUST0190,57,Male,Los Angeles,High,1853.16,276,Toys,0.1,4
+CUST0191,37,Male,Miami,High,915.02,344,Electronics,0.57,4
+CUST0192,29,Female,Los Angeles,Low,4393.62,295,Clothing,0.53,3
+CUST0193,56,Female,San Francisco,High,4244.27,144,Books,0.58,2
+CUST0194,59,Male,Denver,Low,1963.26,349,Clothing,0.69,5
+CUST0195,33,Male,New York,Medium,3891.35,271,Sports,0.51,2
+CUST0196,22,Female,Seattle,High,355.1,81,Toys,0.47,1
+CUST0197,50,Male,Chicago,Low,1850.56,251,Clothing,0.97,1
+CUST0198,39,Male,Denver,Low,4517.03,30,Beauty & Health,0.84,3
+CUST0199,43,Male,Boston,Low,2607.78,51,Toys,0.24,2
+CUST0200,25,Female,Miami,High,3325.51,322,Sports,0.58,1
+CUST0201,33,Female,Denver,High,4997.51,338,Toys,0.01,3
+CUST0202,34,Male,San Francisco,Medium,4245.91,252,Sports,0.47,4
+CUST0203,65,Male,Houston,Medium,1924.54,73,Groceries,0.02,2
+CUST0204,49,Female,Los Angeles,Low,2924.85,61,Clothing,0.65,4
+CUST0205,28,Female,Houston,Low,4572.29,95,Home & Furniture,0.97,4
+CUST0206,33,Male,Denver,High,2081.16,40,Beauty & Health,0.52,3
+CUST0207,36,Female,Houston,Medium,4102.7,190,Books,0.79,4
+CUST0208,48,Female,Denver,Low,3099.42,188,Beauty & Health,0.75,2
+CUST0209,57,Male,Los Angeles,Medium,3503.01,321,Groceries,0.39,2
+CUST0210,67,Male,New York,Medium,2575.72,113,Clothing,0.47,1
+CUST0211,29,Female,Phoenix,Medium,4670.45,349,Beauty & Health,0.46,1
+CUST0212,33,Male,Miami,Low,4020.57,143,Groceries,0.23,3
+CUST0213,62,Male,Los Angeles,Low,1053.08,318,Groceries,0.57,1
+CUST0214,41,Male,Los Angeles,Low,223.11,239,Electronics,0.41,3
+CUST0215,63,Male,Denver,High,4900.61,6,Beauty & Health,0.2,3
+CUST0216,38,Male,Boston,Low,1005.66,163,Toys,0.6,5
+CUST0217,44,Male,Boston,Low,3452.95,115,Home & Furniture,0.89,5
+CUST0218,23,Male,Miami,Medium,2620.76,231,Clothing,0.82,2
+CUST0219,28,Female,Phoenix,Low,2076.93,171,Sports,0.71,4
+CUST0220,33,Male,Houston,Medium,2524.07,12,Groceries,0.73,4
+CUST0221,34,Female,Denver,Low,653.95,101,Beauty & Health,0.63,5
+CUST0222,31,Male,New York,High,591.04,45,Beauty & Health,0.34,5
+CUST0223,36,Female,Denver,Low,3768.47,28,Toys,0.8,3
+CUST0224,62,Male,Boston,Low,1502.12,70,Books,0.45,2
+CUST0225,62,Male,Boston,Medium,1965.7,243,Electronics,0.4,5
+CUST0226,45,Female,Chicago,Low,4274.35,64,Toys,0.73,4
+CUST0227,63,Female,San Francisco,Low,3338.49,26,Groceries,0.82,3
+CUST0228,57,Male,Denver,Medium,2900.23,55,Beauty & Health,0.79,3
+CUST0229,25,Female,Boston,High,815.67,361,Home & Furniture,0.87,3
+CUST0230,68,Male,San Francisco,High,3231.0,48,Books,0.58,4
+CUST0231,56,Female,Los Angeles,Low,332.39,241,Books,0.39,2
+CUST0232,31,Female,Houston,Medium,4970.51,222,Electronics,0.97,2
+CUST0233,43,Female,New York,High,3192.43,19,Beauty & Health,0.51,5
+CUST0234,40,Female,Boston,Medium,1025.31,253,Groceries,0.32,5
+CUST0235,65,Female,Houston,Medium,4375.27,300,Clothing,0.83,1
+CUST0236,42,Female,Seattle,Medium,151.24,288,Beauty & Health,0.59,3
+CUST0237,48,Male,New York,High,2398.65,106,Books,0.27,3
+CUST0238,69,Female,San Francisco,Medium,958.6,7,Home & Furniture,0.78,4
+CUST0239,34,Male,Seattle,Medium,1372.28,3,Sports,0.38,4
+CUST0240,63,Male,Chicago,High,1081.89,88,Electronics,0.82,1
+CUST0241,34,Female,Seattle,Medium,3741.24,137,Home & Furniture,0.54,5
+CUST0242,42,Female,San Francisco,Low,3495.18,165,Books,0.01,3
+CUST0243,24,Male,Miami,High,4930.1,19,Beauty & Health,0.58,4
+CUST0244,69,Female,Houston,Medium,143.97,333,Groceries,0.88,1
+CUST0245,58,Male,Houston,Medium,4848.88,340,Electronics,0.54,4
+CUST0246,44,Female,Miami,Low,1755.01,81,Electronics,0.19,2
+CUST0247,55,Female,Phoenix,Low,1638.06,84,Books,0.49,5
+CUST0248,59,Female,San Francisco,Low,2052.94,236,Groceries,0.13,2
+CUST0249,58,Female,Miami,Medium,2185.76,220,Electronics,0.72,4
+CUST0250,18,Female,Chicago,Low,3091.11,346,Electronics,0.45,1
+CUST0251,36,Female,Los Angeles,High,1199.23,7,Books,0.87,2
+CUST0252,58,Male,Denver,High,1352.57,154,Beauty & Health,0.23,4
+CUST0253,30,Male,Los Angeles,Medium,4418.24,4,Toys,1.0,5
+CUST0254,38,Female,Miami,Low,3412.98,295,Beauty & Health,0.71,5
+CUST0255,51,Female,Denver,Low,4888.18,23,Clothing,0.64,5
+CUST0256,63,Male,Denver,Low,1879.61,233,Toys,0.78,4
+CUST0257,37,Male,Chicago,Low,1687.26,84,Home & Furniture,0.43,1
+CUST0258,35,Male,Miami,Medium,2590.58,75,Beauty & Health,0.81,1
+CUST0259,46,Female,Seattle,Medium,1101.1,119,Clothing,0.13,4
+CUST0260,41,Male,Seattle,High,1483.14,104,Toys,0.99,1
+CUST0261,33,Female,Los Angeles,Low,456.68,187,Sports,0.8,2
+CUST0262,41,Female,Los Angeles,High,2890.81,55,Beauty & Health,0.28,2
+CUST0263,34,Female,Miami,High,1219.76,347,Electronics,0.12,2
+CUST0264,38,Male,Phoenix,High,4315.29,321,Home & Furniture,0.08,4
+CUST0265,54,Female,Seattle,Medium,2853.13,178,Groceries,0.21,4
+CUST0266,22,Female,Houston,High,2425.9,93,Books,0.21,1
+CUST0267,43,Male,Denver,Low,4340.16,240,Home & Furniture,0.51,3
+CUST0268,21,Male,Los Angeles,High,3259.07,17,Books,0.98,3
+CUST0269,69,Male,Boston,High,804.66,46,Groceries,0.9,4
+CUST0270,59,Male,San Francisco,Medium,298.9,216,Groceries,0.46,3
+CUST0271,50,Female,Houston,High,3598.34,227,Home & Furniture,0.76,4
+CUST0272,33,Male,Houston,Low,3639.34,189,Home & Furniture,0.87,1
+CUST0273,50,Male,Chicago,Low,4462.5,35,Groceries,0.25,3
+CUST0274,66,Female,Miami,High,4007.23,301,Beauty & Health,0.15,5
+CUST0275,33,Male,Denver,Medium,3389.99,296,Home & Furniture,0.87,5
+CUST0276,65,Male,Houston,Low,1743.32,159,Beauty & Health,0.01,5
+CUST0277,46,Female,Chicago,Medium,1247.11,90,Clothing,0.74,4
+CUST0278,50,Male,Denver,High,1302.31,298,Books,0.29,1
+CUST0279,32,Male,Boston,Medium,168.44,320,Toys,0.1,2
+CUST0280,28,Female,Los Angeles,High,3316.33,37,Beauty & Health,0.35,5
+CUST0281,51,Male,Phoenix,High,1515.08,118,Groceries,0.79,4
+CUST0282,69,Male,Los Angeles,High,60.12,80,Home & Furniture,0.58,2
+CUST0283,58,Female,Houston,High,2198.21,162,Sports,0.96,1
+CUST0284,52,Male,Houston,Low,1089.97,145,Home & Furniture,0.98,5
+CUST0285,66,Male,New York,High,3714.59,236,Clothing,0.59,4
+CUST0286,28,Male,New York,Medium,4752.82,100,Electronics,0.85,5
+CUST0287,48,Female,Chicago,Low,2562.84,99,Sports,0.17,3
+CUST0288,67,Female,Chicago,Medium,1479.41,299,Home & Furniture,0.54,5
+CUST0289,70,Male,New York,High,2617.28,327,Toys,0.93,2
+CUST0290,56,Male,Los Angeles,High,4056.75,346,Groceries,0.17,2
+CUST0291,42,Male,Houston,Low,1365.91,151,Electronics,0.4,3
+CUST0292,21,Male,Miami,High,1589.0,314,Toys,0.77,5
+CUST0293,51,Female,Los Angeles,High,3312.35,227,Toys,0.91,2
+CUST0294,41,Male,Boston,High,63.69,38,Clothing,0.34,1
+CUST0295,20,Male,Chicago,High,2215.68,47,Toys,0.43,4
+CUST0296,20,Male,Houston,Low,3786.12,103,Groceries,0.46,1
+CUST0297,30,Female,New York,High,1935.74,14,Electronics,0.21,4
+CUST0298,19,Female,Boston,Medium,3877.89,210,Sports,0.69,5
+CUST0299,69,Male,Chicago,High,2319.93,94,Home & Furniture,0.3,4
+CUST0300,24,Male,Chicago,Low,52.74,251,Clothing,0.8,1
+CUST0301,61,Female,Chicago,Low,3618.86,6,Electronics,0.15,4
+CUST0302,63,Male,Denver,Low,4002.21,74,Home & Furniture,0.4,2
+CUST0303,20,Female,Miami,Medium,1657.7,140,Electronics,0.42,2
+CUST0304,64,Female,Boston,High,1537.71,134,Electronics,0.25,2
+CUST0305,22,Male,Miami,High,1041.11,82,Groceries,0.98,1
+CUST0306,32,Male,New York,High,1419.47,327,Clothing,0.27,3
+CUST0307,37,Female,Houston,Low,4379.15,23,Toys,0.77,1
+CUST0308,18,Female,Boston,High,2908.08,236,Books,0.16,5
+CUST0309,63,Male,Boston,High,2691.4,220,Sports,0.57,5
+CUST0310,47,Male,Phoenix,Medium,2177.81,68,Books,0.8,4
+CUST0311,45,Female,Miami,High,3907.36,84,Sports,0.33,5
+CUST0312,64,Female,San Francisco,Low,4535.89,147,Beauty & Health,0.4,1
+CUST0313,23,Female,Houston,High,4215.12,111,Home & Furniture,0.34,1
+CUST0314,41,Female,Denver,Medium,3103.95,2,Sports,0.01,4
+CUST0315,38,Male,Houston,Low,3501.15,323,Electronics,0.36,1
+CUST0316,23,Male,Seattle,Medium,4895.16,208,Clothing,0.5,5
+CUST0317,41,Female,Boston,Medium,4261.46,206,Electronics,0.84,4
+CUST0318,51,Female,Boston,Medium,2617.45,93,Electronics,0.32,2
+CUST0319,60,Male,Seattle,High,3207.84,203,Electronics,0.51,4
+CUST0320,61,Female,Seattle,High,3203.78,180,Groceries,0.28,3
+CUST0321,35,Female,Los Angeles,Low,2898.48,187,Groceries,0.4,5
+CUST0322,35,Female,Los Angeles,Medium,2290.37,221,Sports,0.93,1
+CUST0323,45,Male,San Francisco,Low,3622.87,269,Toys,0.06,1
+CUST0324,20,Female,New York,Low,4579.55,354,Toys,0.55,1
+CUST0325,65,Female,Los Angeles,High,1104.49,291,Home & Furniture,0.72,2
+CUST0326,21,Male,Houston,Low,2803.6,207,Groceries,0.77,4
+CUST0327,54,Male,San Francisco,Low,425.62,262,Sports,0.13,4
+CUST0328,36,Female,Chicago,Medium,1815.01,248,Clothing,0.32,1
+CUST0329,19,Male,Chicago,High,1321.1,285,Books,0.14,3
+CUST0330,68,Female,Phoenix,High,315.98,222,Home & Furniture,0.29,4
+CUST0331,37,Female,New York,High,4162.06,298,Beauty & Health,0.11,3
+CUST0332,27,Male,Denver,Low,949.8,333,Toys,0.77,2
+CUST0333,44,Female,New York,Low,1582.93,120,Home & Furniture,0.59,3
+CUST0334,29,Male,New York,Low,4658.94,131,Toys,0.31,5
+CUST0335,49,Female,Chicago,Low,3897.84,78,Groceries,0.32,1
+CUST0336,60,Male,Chicago,Low,1474.05,228,Clothing,0.82,2
+CUST0337,27,Female,New York,High,3908.54,161,Clothing,0.99,5
+CUST0338,64,Male,San Francisco,Medium,3373.87,103,Groceries,0.46,4
+CUST0339,66,Female,Boston,Medium,2918.33,103,Sports,0.65,1
+CUST0340,20,Male,Chicago,High,1260.0,249,Home & Furniture,0.78,2
+CUST0341,36,Male,Seattle,High,689.25,354,Clothing,0.14,3
+CUST0342,36,Male,Los Angeles,Medium,4400.15,99,Electronics,0.22,1
+CUST0343,30,Male,Phoenix,High,4582.17,263,Home & Furniture,0.75,4
+CUST0344,52,Male,Denver,Low,4009.47,213,Groceries,0.54,2
+CUST0345,43,Male,Phoenix,Low,2778.13,16,Beauty & Health,0.84,1
+CUST0346,50,Female,Chicago,Low,1693.14,246,Books,0.43,5
+CUST0347,61,Male,Chicago,High,3142.03,312,Toys,0.17,5
+CUST0348,60,Female,New York,High,1257.71,242,Electronics,0.76,4
+CUST0349,65,Female,Boston,High,2229.04,180,Sports,0.78,3
+CUST0350,44,Female,Phoenix,Low,3240.42,340,Beauty & Health,0.92,4
+CUST0351,67,Male,Chicago,Low,4852.68,168,Books,0.99,5
+CUST0352,46,Male,Houston,Low,4191.1,344,Beauty & Health,0.61,4
+CUST0353,41,Male,Miami,Medium,1168.86,263,Home & Furniture,0.27,5
+CUST0354,24,Female,Houston,Low,3858.38,190,Clothing,0.62,4
+CUST0355,22,Female,Los Angeles,Low,2004.91,38,Groceries,0.26,3
+CUST0356,52,Female,San Francisco,Medium,4202.97,222,Electronics,0.84,1
+CUST0357,46,Female,Phoenix,Low,1256.61,195,Groceries,0.57,3
+CUST0358,68,Female,Seattle,Medium,522.0,330,Clothing,0.13,3
+CUST0359,35,Male,Los Angeles,High,2754.17,26,Electronics,0.81,3
+CUST0360,40,Female,Los Angeles,Low,1466.05,329,Toys,0.36,2
+CUST0361,18,Female,Phoenix,Medium,4424.93,84,Electronics,0.19,2
+CUST0362,58,Female,Houston,Medium,3165.99,307,Sports,0.83,1
+CUST0363,36,Female,San Francisco,High,4461.11,320,Clothing,0.22,2
+CUST0364,38,Male,Miami,Low,1280.61,289,Groceries,0.97,2
+CUST0365,29,Female,Denver,High,3333.13,281,Electronics,0.57,5
+CUST0366,57,Female,Chicago,Low,1441.35,290,Books,0.49,2
+CUST0367,63,Male,Seattle,Medium,4920.29,91,Beauty & Health,0.23,5
+CUST0368,47,Male,Boston,High,1981.62,296,Electronics,0.73,1
+CUST0369,37,Female,Denver,Low,2902.34,283,Groceries,0.09,2
+CUST0370,63,Male,New York,Medium,3381.85,301,Electronics,0.54,5
+CUST0371,42,Male,Denver,Medium,3535.29,22,Electronics,0.53,5
+CUST0372,28,Female,Boston,Medium,2570.8,184,Toys,0.63,4
+CUST0373,62,Male,Chicago,Low,3217.4,95,Books,0.16,5
+CUST0374,51,Female,Boston,Low,995.24,270,Home & Furniture,0.17,2
+CUST0375,45,Female,Phoenix,Low,2217.86,210,Beauty & Health,0.2,2
+CUST0376,47,Female,New York,Low,2139.2,248,Groceries,0.78,5
+CUST0377,68,Female,Houston,High,3667.56,138,Groceries,0.82,1
+CUST0378,32,Male,Houston,High,2621.67,26,Groceries,0.67,4
+CUST0379,31,Female,Los Angeles,High,632.98,228,Groceries,0.3,4
+CUST0380,35,Male,Boston,Medium,2670.81,359,Toys,0.65,4
+CUST0381,58,Male,San Francisco,Low,2057.86,243,Electronics,0.86,3
+CUST0382,70,Male,Chicago,Medium,1264.29,309,Home & Furniture,0.51,2
+CUST0383,22,Female,Chicago,High,2209.2,166,Toys,0.03,2
+CUST0384,50,Female,Boston,High,1141.04,153,Home & Furniture,0.71,2
+CUST0385,43,Male,Seattle,Low,1193.75,123,Groceries,0.75,1
+CUST0386,41,Male,Los Angeles,High,349.42,239,Groceries,0.47,4
+CUST0387,28,Male,Miami,Low,503.02,110,Clothing,0.28,2
+CUST0388,34,Female,Phoenix,High,724.56,257,Home & Furniture,0.24,5
+CUST0389,22,Female,Seattle,Medium,393.8,143,Clothing,0.33,3
+CUST0390,32,Female,Phoenix,Low,2510.96,10,Home & Furniture,0.97,5
+CUST0391,23,Male,Houston,High,1800.41,188,Home & Furniture,0.33,4
+CUST0392,56,Male,Phoenix,Low,3928.3,60,Sports,0.1,5
+CUST0393,34,Female,Chicago,Medium,3806.4,307,Books,0.45,2
+CUST0394,45,Male,Denver,High,1841.64,216,Beauty & Health,0.35,2
+CUST0395,46,Female,Los Angeles,Low,952.99,173,Sports,0.24,3
+CUST0396,22,Female,Boston,Medium,3385.5,61,Home & Furniture,0.92,5
+CUST0397,18,Female,New York,Low,731.22,360,Books,0.36,4
+CUST0398,36,Female,Houston,Low,1592.46,313,Toys,0.87,1
+CUST0399,38,Male,Boston,Low,795.25,272,Electronics,0.88,5
+CUST0400,35,Male,Phoenix,Medium,3076.73,249,Groceries,0.04,1
+CUST0401,32,Female,Boston,Low,4770.8,269,Electronics,0.14,3
+CUST0402,20,Male,Houston,Low,1430.97,216,Electronics,0.42,2
+CUST0403,62,Female,Houston,High,3892.3,352,Home & Furniture,0.76,3
+CUST0404,18,Male,Boston,Medium,3089.67,74,Beauty & Health,0.4,2
+CUST0405,34,Male,Houston,High,1874.38,255,Toys,0.73,5
+CUST0406,22,Female,San Francisco,High,2662.16,309,Books,0.48,5
+CUST0407,60,Male,Houston,Medium,4054.23,62,Home & Furniture,0.17,3
+CUST0408,21,Male,Houston,Medium,1577.02,329,Sports,0.93,4
+CUST0409,25,Male,Phoenix,Low,1500.32,123,Home & Furniture,0.52,1
+CUST0410,63,Female,New York,High,1624.13,315,Home & Furniture,0.72,4
+CUST0411,43,Female,Los Angeles,Medium,604.31,234,Electronics,0.36,5
+CUST0412,22,Male,Chicago,High,1208.99,52,Groceries,0.82,3
+CUST0413,27,Female,Miami,Medium,772.96,166,Beauty & Health,0.1,5
+CUST0414,39,Male,Houston,Low,2162.16,2,Groceries,0.44,4
+CUST0415,68,Female,Chicago,Low,816.47,143,Toys,0.83,3
+CUST0416,64,Male,New York,Medium,4134.34,284,Books,0.54,3
+CUST0417,48,Female,Houston,Low,1174.44,167,Home & Furniture,0.23,1
+CUST0418,58,Male,Boston,High,408.97,358,Groceries,0.42,2
+CUST0419,52,Female,Los Angeles,High,602.05,246,Home & Furniture,0.98,3
+CUST0420,21,Female,San Francisco,High,3001.21,54,Clothing,0.11,2
+CUST0421,39,Female,San Francisco,Low,4975.96,119,Home & Furniture,0.64,1
+CUST0422,34,Male,Phoenix,Medium,2574.05,100,Electronics,0.98,2
+CUST0423,47,Male,New York,Low,3330.67,70,Electronics,0.31,2
+CUST0424,53,Male,Miami,Medium,3586.0,251,Sports,0.15,5
+CUST0425,46,Male,Phoenix,High,1908.6,291,Beauty & Health,0.31,2
+CUST0426,37,Male,Chicago,Medium,154.38,26,Home & Furniture,0.14,5
+CUST0427,53,Male,Chicago,Low,1279.62,133,Books,0.26,4
+CUST0428,27,Female,Seattle,Medium,1004.5,114,Sports,0.41,4
+CUST0429,56,Male,Chicago,Low,4796.49,132,Home & Furniture,0.06,5
+CUST0430,32,Female,Phoenix,Low,198.67,148,Groceries,0.59,2
+CUST0431,55,Male,Boston,Low,2177.28,261,Home & Furniture,0.58,2
+CUST0432,65,Male,Denver,Low,1343.31,215,Sports,0.06,5
+CUST0433,68,Male,Houston,Low,3107.23,226,Clothing,0.73,4
+CUST0434,30,Female,San Francisco,High,4468.48,16,Home & Furniture,0.45,4
+CUST0435,62,Male,Denver,High,975.68,250,Books,0.25,2
+CUST0436,23,Male,Phoenix,High,3203.68,298,Beauty & Health,0.52,3
+CUST0437,52,Female,Chicago,Low,758.42,183,Electronics,0.74,5
+CUST0438,64,Female,Seattle,Low,3825.14,19,Electronics,0.62,1
+CUST0439,65,Female,Boston,High,4504.5,226,Sports,0.39,3
+CUST0440,24,Male,Seattle,Medium,1670.42,253,Electronics,0.77,5
+CUST0441,70,Female,New York,Low,4000.08,63,Groceries,0.81,4
+CUST0442,32,Female,San Francisco,Low,1878.15,260,Electronics,0.95,2
+CUST0443,27,Male,Chicago,Low,2384.98,178,Beauty & Health,0.98,1
+CUST0444,34,Female,Houston,Low,2331.02,18,Clothing,0.17,5
+CUST0445,65,Male,Denver,High,538.45,320,Books,0.68,4
+CUST0446,36,Male,San Francisco,Medium,1207.75,198,Books,0.1,4
+CUST0447,62,Male,Denver,Low,2933.71,256,Beauty & Health,0.81,3
+CUST0448,57,Male,Seattle,High,378.68,116,Sports,0.16,5
+CUST0449,29,Female,Boston,Low,4287.3,236,Toys,0.61,1
+CUST0450,36,Male,Boston,Medium,4753.62,157,Clothing,0.34,3
+CUST0451,30,Male,Miami,Medium,670.78,19,Electronics,0.18,4
+CUST0452,34,Female,Seattle,High,4898.15,279,Electronics,0.06,4
+CUST0453,52,Female,Houston,Medium,3778.82,13,Home & Furniture,0.16,3
+CUST0454,50,Male,Phoenix,Low,447.02,104,Clothing,0.31,2
+CUST0455,68,Female,Miami,High,4099.42,296,Beauty & Health,0.59,3
+CUST0456,49,Male,Denver,Low,3763.01,216,Toys,0.4,2
+CUST0457,50,Male,Miami,Medium,1685.62,250,Books,0.55,4
+CUST0458,26,Male,Miami,Low,191.08,58,Groceries,0.77,5
+CUST0459,63,Male,Los Angeles,Low,4229.44,17,Beauty & Health,0.44,5
+CUST0460,43,Male,Chicago,Medium,4653.35,83,Electronics,0.2,3
+CUST0461,62,Female,Denver,Medium,3806.39,74,Books,0.15,3
+CUST0462,53,Female,New York,Low,4126.47,118,Clothing,0.54,5
+CUST0463,67,Female,New York,Medium,2039.32,90,Books,0.87,3
+CUST0464,67,Male,Miami,High,3165.18,111,Beauty & Health,0.96,1
+CUST0465,31,Male,New York,Low,3080.4,136,Beauty & Health,0.02,4
+CUST0466,24,Female,New York,High,3251.1,361,Books,0.84,4
+CUST0467,36,Female,Chicago,Medium,1736.36,309,Electronics,0.04,4
+CUST0468,62,Female,Houston,Medium,2052.16,291,Beauty & Health,0.89,5
+CUST0469,22,Male,Chicago,Low,2197.92,103,Electronics,0.12,4
+CUST0470,40,Male,Phoenix,High,942.69,29,Toys,0.86,2
+CUST0471,53,Male,San Francisco,Low,3659.22,31,Books,0.28,1
+CUST0472,41,Male,Denver,Low,2295.46,66,Electronics,0.62,5
+CUST0473,31,Female,San Francisco,Medium,480.59,215,Sports,0.22,4
+CUST0474,36,Female,Houston,High,2116.37,335,Groceries,0.96,2
+CUST0475,47,Female,San Francisco,High,2659.81,312,Clothing,0.45,1
+CUST0476,52,Female,Denver,Medium,2250.47,29,Groceries,0.29,3
+CUST0477,50,Female,San Francisco,Low,2808.07,69,Beauty & Health,0.89,3
+CUST0478,69,Male,Chicago,Medium,2699.7,318,Electronics,0.2,1
+CUST0479,30,Male,San Francisco,Medium,1148.69,169,Clothing,0.97,4
+CUST0480,30,Female,Houston,Low,1069.81,358,Books,0.15,4
+CUST0481,61,Male,Denver,Low,3497.56,310,Home & Furniture,0.82,3
+CUST0482,35,Female,Phoenix,High,278.16,320,Electronics,0.1,1
+CUST0483,44,Female,Boston,Low,993.78,352,Books,0.88,1
+CUST0484,36,Female,Boston,Medium,3994.67,298,Groceries,0.04,4
+CUST0485,20,Female,Houston,Medium,3671.49,351,Sports,0.78,3
+CUST0486,61,Male,Boston,Low,317.42,334,Sports,0.9,3
+CUST0487,58,Male,Denver,Low,1146.6,150,Sports,0.51,5
+CUST0488,49,Male,Chicago,High,1636.71,319,Home & Furniture,0.54,3
+CUST0489,23,Female,Miami,Low,4510.84,340,Beauty & Health,0.76,5
+CUST0490,30,Male,Miami,Low,1020.66,307,Books,0.68,2
+CUST0491,56,Female,Chicago,High,55.12,28,Home & Furniture,0.84,4
+CUST0492,39,Male,Seattle,Medium,2528.36,285,Electronics,0.71,5
+CUST0493,20,Female,Boston,High,2071.09,185,Sports,0.25,3
+CUST0494,34,Male,Phoenix,Medium,1682.55,187,Books,0.99,5
+CUST0495,26,Male,Miami,High,1706.79,337,Books,0.4,2
+CUST0496,25,Male,Seattle,Medium,688.97,347,Groceries,0.13,3
+CUST0497,63,Female,New York,Low,3787.05,81,Clothing,0.94,5
+CUST0498,20,Male,Boston,Low,4920.48,186,Groceries,0.82,3
+CUST0499,44,Female,Los Angeles,Low,2106.48,53,Electronics,0.05,1
+CUST0500,60,Female,Boston,Low,3523.61,7,Electronics,0.79,1
+CUST0501,21,Female,Chicago,Medium,2737.41,81,Home & Furniture,0.46,1
+CUST0502,37,Male,San Francisco,Medium,3982.97,216,Toys,0.93,5
+CUST0503,63,Male,Houston,Low,355.45,265,Groceries,0.39,3
+CUST0504,42,Female,Chicago,Medium,122.54,285,Clothing,0.77,2
+CUST0505,65,Male,Los Angeles,Low,4498.87,55,Toys,0.83,1
+CUST0506,21,Female,Boston,Low,4601.56,137,Toys,0.63,3
+CUST0507,40,Male,Phoenix,Low,4010.54,168,Beauty & Health,0.86,3
+CUST0508,39,Male,Miami,Medium,929.25,289,Beauty & Health,0.0,3
+CUST0509,19,Male,Seattle,High,1521.07,137,Toys,0.83,1
+CUST0510,60,Male,Denver,High,3185.52,98,Sports,0.11,4
+CUST0511,46,Female,Seattle,Medium,4419.16,344,Clothing,0.82,1
+CUST0512,18,Female,New York,Medium,1217.38,116,Beauty & Health,0.29,4
+CUST0513,64,Male,San Francisco,Medium,2182.17,332,Groceries,0.85,1
+CUST0514,45,Male,Boston,High,1184.99,61,Clothing,0.86,3
+CUST0515,37,Male,Miami,Medium,1462.54,85,Clothing,0.02,1
+CUST0516,30,Female,Denver,Medium,217.71,85,Sports,0.84,2
+CUST0517,70,Male,Phoenix,Medium,3332.08,282,Beauty & Health,0.09,5
+CUST0518,59,Female,Los Angeles,Medium,197.42,342,Electronics,0.6,2
+CUST0519,29,Male,San Francisco,High,848.79,141,Home & Furniture,0.54,4
+CUST0520,44,Female,Seattle,Medium,3683.74,55,Toys,0.19,4
+CUST0521,35,Male,Chicago,Medium,3754.01,11,Sports,0.28,2
+CUST0522,51,Male,San Francisco,Medium,3206.76,120,Home & Furniture,0.57,4
+CUST0523,36,Male,Miami,Medium,2376.12,73,Toys,0.89,1
+CUST0524,50,Female,Phoenix,High,2821.68,138,Toys,0.07,5
+CUST0525,21,Male,Los Angeles,Low,849.65,112,Books,0.67,4
+CUST0526,56,Male,San Francisco,Low,2156.81,150,Electronics,0.91,2
+CUST0527,49,Male,Seattle,High,4003.04,279,Sports,0.91,2
+CUST0528,50,Male,San Francisco,Medium,4296.45,140,Electronics,0.9,1
+CUST0529,21,Female,New York,Medium,63.67,317,Groceries,0.11,1
+CUST0530,42,Female,New York,Low,4258.41,213,Toys,0.7,2
+CUST0531,62,Female,Houston,Medium,2489.62,163,Toys,0.67,4
+CUST0532,46,Male,San Francisco,High,4480.45,26,Beauty & Health,0.72,4
+CUST0533,55,Male,Phoenix,Low,3802.98,41,Clothing,0.61,4
+CUST0534,18,Male,San Francisco,Medium,3474.11,196,Toys,0.74,5
+CUST0535,61,Male,Chicago,Medium,1128.27,215,Toys,0.04,4
+CUST0536,67,Female,Boston,Low,798.6,345,Home & Furniture,0.7,1
+CUST0537,60,Female,New York,Medium,1046.05,61,Groceries,0.22,2
+CUST0538,28,Male,San Francisco,High,4181.65,35,Clothing,0.47,3
+CUST0539,27,Female,New York,Low,2619.81,364,Home & Furniture,0.14,1
+CUST0540,56,Male,Miami,High,4281.73,66,Books,0.3,4
+CUST0541,33,Male,Miami,Medium,3995.91,291,Beauty & Health,0.79,1
+CUST0542,40,Male,Miami,Low,3344.36,345,Clothing,0.78,2
+CUST0543,25,Male,Boston,Medium,3728.03,358,Books,0.82,5
+CUST0544,18,Male,Phoenix,Medium,3935.42,88,Beauty & Health,0.66,3
+CUST0545,20,Male,Houston,Low,4060.31,61,Home & Furniture,0.65,4
+CUST0546,59,Female,Los Angeles,Low,2562.22,181,Beauty & Health,0.52,5
+CUST0547,62,Male,Seattle,High,695.14,147,Electronics,0.68,3
+CUST0548,47,Male,New York,High,4652.73,275,Toys,0.65,2
+CUST0549,53,Female,Seattle,High,4181.19,290,Sports,0.12,4
+CUST0550,44,Male,San Francisco,Low,4578.06,353,Electronics,0.21,5
+CUST0551,67,Male,Boston,Medium,3213.67,162,Sports,0.91,4
+CUST0552,22,Male,Seattle,High,2888.19,340,Electronics,0.24,5
+CUST0553,43,Male,San Francisco,High,4226.01,306,Groceries,0.79,5
+CUST0554,55,Male,Boston,Low,1922.48,269,Books,0.64,3
+CUST0555,19,Male,Denver,Medium,3057.44,69,Books,0.31,4
+CUST0556,57,Male,Los Angeles,High,1694.12,226,Sports,0.69,3
+CUST0557,36,Male,Phoenix,Medium,1802.13,162,Books,0.84,3
+CUST0558,34,Male,Los Angeles,Low,1879.57,112,Home & Furniture,0.52,3
+CUST0559,31,Female,Phoenix,Medium,2849.16,251,Sports,0.59,3
+CUST0560,24,Male,Phoenix,Low,3438.84,275,Clothing,0.02,4
+CUST0561,38,Female,Chicago,High,968.64,280,Clothing,0.84,4
+CUST0562,24,Male,Boston,Medium,717.98,284,Home & Furniture,0.73,1
+CUST0563,44,Male,Boston,High,3959.89,182,Electronics,0.65,3
+CUST0564,22,Female,Phoenix,Medium,767.45,194,Clothing,0.19,4
+CUST0565,20,Male,Chicago,Low,2584.97,177,Toys,0.34,2
+CUST0566,47,Male,Boston,Medium,1800.05,298,Toys,0.24,2
+CUST0567,55,Male,San Francisco,Medium,2979.89,50,Electronics,0.15,1
+CUST0568,19,Male,San Francisco,High,1784.62,227,Clothing,0.07,2
+CUST0569,48,Female,Seattle,Low,3415.35,250,Beauty & Health,0.78,3
+CUST0570,67,Male,Boston,Medium,4415.51,157,Sports,0.42,2
+CUST0571,45,Female,San Francisco,Low,1602.31,159,Groceries,0.66,2
+CUST0572,39,Male,New York,High,4621.94,118,Clothing,0.05,5
+CUST0573,57,Male,Chicago,Low,1589.87,93,Sports,0.22,1
+CUST0574,36,Female,San Francisco,Low,1904.6,208,Electronics,0.18,2
+CUST0575,39,Female,Seattle,Medium,460.39,49,Books,0.59,2
+CUST0576,24,Female,Miami,High,915.95,350,Electronics,0.73,5
+CUST0577,44,Male,Miami,High,2668.63,299,Electronics,0.12,2
+CUST0578,43,Male,New York,Medium,4454.0,248,Groceries,0.94,1
+CUST0579,20,Female,Denver,Low,1155.38,201,Groceries,0.69,3
+CUST0580,53,Male,Chicago,High,4407.22,76,Toys,0.88,5
+CUST0581,50,Male,Seattle,Low,1516.21,255,Groceries,0.3,5
+CUST0582,22,Female,Seattle,Low,1057.22,263,Groceries,0.22,1
+CUST0583,46,Male,Phoenix,Medium,566.79,235,Home & Furniture,0.58,2
+CUST0584,63,Male,Houston,Low,825.7,331,Clothing,0.21,3
+CUST0585,42,Male,Los Angeles,Low,2381.82,11,Clothing,0.68,1
+CUST0586,29,Male,Houston,Medium,2887.34,180,Toys,0.59,4
+CUST0587,47,Male,San Francisco,Medium,4956.03,82,Groceries,0.84,1
+CUST0588,40,Female,Chicago,Medium,1022.87,212,Electronics,0.85,2
+CUST0589,61,Female,Miami,High,3514.33,358,Electronics,0.52,4
+CUST0590,39,Male,Los Angeles,High,950.32,253,Electronics,0.03,3
+CUST0591,23,Male,Los Angeles,High,690.16,211,Books,0.86,4
+CUST0592,50,Male,Seattle,Medium,804.93,251,Electronics,0.4,3
+CUST0593,18,Male,San Francisco,Low,222.65,222,Groceries,0.68,5
+CUST0594,26,Male,Houston,Low,3147.68,49,Beauty & Health,0.1,2
+CUST0595,42,Male,Denver,Low,4212.87,252,Sports,0.16,5
+CUST0596,33,Female,Boston,Medium,3068.24,140,Beauty & Health,0.62,3
+CUST0597,45,Male,Los Angeles,High,1994.49,244,Books,0.68,4
+CUST0598,53,Male,Seattle,Low,1077.77,21,Books,0.99,3
+CUST0599,26,Male,Seattle,High,4395.78,153,Books,0.07,4
+CUST0600,25,Female,Houston,Low,3614.13,144,Books,0.53,5
+CUST0601,68,Female,Los Angeles,Medium,4075.68,357,Books,0.31,4
+CUST0602,21,Male,Boston,Medium,1699.49,208,Beauty & Health,0.56,5
+CUST0603,36,Male,Seattle,Medium,4072.9,296,Beauty & Health,0.51,5
+CUST0604,48,Female,Los Angeles,Low,4702.94,213,Groceries,0.42,1
+CUST0605,50,Female,New York,High,3673.63,357,Toys,0.54,5
+CUST0606,20,Male,Denver,Medium,4859.41,223,Electronics,0.17,2
+CUST0607,44,Female,Denver,Medium,2848.04,292,Clothing,0.34,1
+CUST0608,20,Female,New York,Low,925.11,195,Toys,0.33,1
+CUST0609,25,Male,New York,Medium,3761.75,255,Home & Furniture,1.0,4
+CUST0610,66,Male,Phoenix,High,3438.06,89,Home & Furniture,0.16,3
+CUST0611,64,Male,Chicago,High,3338.47,228,Electronics,0.12,2
+CUST0612,20,Female,Denver,Medium,2437.57,123,Books,1.0,2
+CUST0613,65,Female,Chicago,Medium,856.91,265,Beauty & Health,0.65,3
+CUST0614,33,Male,Los Angeles,High,4887.33,71,Books,0.89,2
+CUST0615,55,Male,Seattle,Medium,2399.69,356,Beauty & Health,0.91,3
+CUST0616,61,Female,New York,Low,3215.99,247,Beauty & Health,0.6,1
+CUST0617,51,Male,New York,Medium,3139.79,15,Clothing,0.25,5
+CUST0618,48,Male,Denver,Medium,2178.32,46,Electronics,0.06,3
+CUST0619,59,Female,Seattle,High,980.6,208,Books,0.7,4
+CUST0620,33,Male,Miami,High,2595.02,129,Groceries,0.29,2
+CUST0621,47,Female,Miami,High,72.44,170,Beauty & Health,0.69,1
+CUST0622,44,Male,Seattle,Medium,182.01,29,Books,0.71,4
+CUST0623,63,Female,Boston,High,2682.18,345,Beauty & Health,0.01,2
+CUST0624,21,Male,Los Angeles,Low,2479.88,360,Sports,0.39,4
+CUST0625,25,Male,New York,Medium,714.39,126,Groceries,0.36,3
+CUST0626,65,Female,Chicago,Low,1452.19,156,Home & Furniture,0.21,3
+CUST0627,26,Male,San Francisco,Low,2740.93,195,Toys,0.09,1
+CUST0628,26,Female,Boston,Low,4160.83,90,Groceries,0.38,1
+CUST0629,27,Female,Chicago,High,3636.01,236,Clothing,0.09,5
+CUST0630,32,Male,Chicago,Medium,3903.56,45,Clothing,0.63,3
+CUST0631,51,Male,San Francisco,Low,1593.28,10,Electronics,0.47,5
+CUST0632,49,Male,Miami,High,4829.58,171,Electronics,0.55,3
+CUST0633,30,Female,Phoenix,Medium,1808.05,165,Electronics,0.0,3
+CUST0634,36,Male,Boston,High,354.63,355,Toys,0.67,2
+CUST0635,25,Male,Seattle,High,3536.7,335,Beauty & Health,0.47,3
+CUST0636,34,Male,New York,Low,2194.09,237,Groceries,0.19,3
+CUST0637,65,Female,Miami,High,1148.29,329,Clothing,0.14,5
+CUST0638,26,Female,Miami,Medium,530.33,33,Groceries,0.61,2
+CUST0639,44,Male,Los Angeles,High,1122.42,262,Books,0.72,2
+CUST0640,69,Female,Denver,Medium,1490.34,113,Toys,0.7,5
+CUST0641,27,Female,Boston,High,3542.07,38,Groceries,0.62,1
+CUST0642,25,Male,Seattle,High,666.52,94,Electronics,0.13,4
+CUST0643,69,Male,Seattle,Medium,1617.12,20,Home & Furniture,0.14,2
+CUST0644,48,Female,Miami,High,328.62,111,Toys,0.5,3
+CUST0645,63,Male,Phoenix,Low,3939.21,67,Sports,0.22,3
+CUST0646,53,Female,Seattle,High,2222.37,71,Toys,0.98,4
+CUST0647,44,Male,Chicago,Medium,1896.5,79,Groceries,0.01,3
+CUST0648,38,Male,Denver,High,4435.9,142,Home & Furniture,0.87,4
+CUST0649,39,Male,Miami,High,568.83,304,Books,0.86,3
+CUST0650,24,Female,Seattle,Low,4823.9,141,Books,0.68,4
+CUST0651,30,Female,Denver,High,1868.73,248,Clothing,0.12,4
+CUST0652,48,Female,Miami,Low,3048.7,27,Sports,0.31,1
+CUST0653,24,Female,Phoenix,Low,1351.09,157,Electronics,0.52,1
+CUST0654,66,Male,Los Angeles,Low,3645.06,306,Books,0.48,4
+CUST0655,64,Female,Boston,Medium,1013.13,67,Groceries,0.09,5
+CUST0656,69,Male,Denver,High,1643.37,169,Clothing,0.32,4
+CUST0657,20,Male,San Francisco,High,3286.26,191,Sports,0.02,2
+CUST0658,28,Female,San Francisco,Medium,2394.93,140,Toys,0.19,3
+CUST0659,69,Female,Chicago,Low,2151.92,276,Books,0.74,4
+CUST0660,52,Female,New York,Low,2506.6,332,Groceries,0.81,1
+CUST0661,34,Male,Phoenix,Low,1328.68,220,Books,0.64,5
+CUST0662,28,Female,New York,High,3456.08,81,Home & Furniture,0.15,4
+CUST0663,33,Male,Seattle,Low,4355.2,239,Toys,0.78,3
+CUST0664,20,Male,Chicago,Medium,4583.93,190,Clothing,0.61,3
+CUST0665,34,Male,Houston,Medium,2015.38,18,Toys,0.39,4
+CUST0666,20,Male,Phoenix,High,1194.18,296,Books,0.6,1
+CUST0667,29,Female,Denver,Medium,4515.16,182,Clothing,0.93,4
+CUST0668,44,Male,Chicago,High,2388.31,41,Home & Furniture,0.21,3
+CUST0669,68,Male,Denver,High,4848.56,98,Sports,0.11,1
+CUST0670,35,Female,Miami,High,3377.54,24,Electronics,0.7,4
+CUST0671,34,Male,Los Angeles,Medium,3006.89,231,Sports,0.65,5
+CUST0672,42,Female,Los Angeles,Low,255.29,304,Groceries,0.92,4
+CUST0673,40,Female,New York,Medium,1002.98,113,Sports,0.04,2
+CUST0674,24,Female,Chicago,High,3977.12,258,Groceries,0.77,1
+CUST0675,21,Male,Seattle,Low,2367.93,220,Home & Furniture,0.05,1
+CUST0676,29,Male,Houston,High,1844.78,53,Sports,0.81,2
+CUST0677,51,Female,Chicago,Low,3372.19,98,Clothing,0.16,5
+CUST0678,55,Female,Denver,Medium,1445.07,268,Beauty & Health,0.71,5
+CUST0679,26,Female,Houston,Medium,4339.78,81,Beauty & Health,0.04,5
+CUST0680,26,Female,San Francisco,Low,2790.95,335,Electronics,0.92,4
+CUST0681,48,Male,Phoenix,High,1862.1,199,Beauty & Health,0.44,4
+CUST0682,22,Male,Denver,Medium,3486.35,288,Home & Furniture,0.92,5
+CUST0683,27,Female,Boston,High,4795.84,125,Books,0.25,2
+CUST0684,33,Female,Seattle,High,4935.89,162,Beauty & Health,0.18,4
+CUST0685,32,Female,Boston,Low,4462.44,95,Electronics,0.94,1
+CUST0686,50,Female,New York,High,4444.85,11,Groceries,0.29,5
+CUST0687,52,Male,Denver,Low,4465.99,42,Home & Furniture,0.87,1
+CUST0688,19,Male,Los Angeles,Medium,328.21,244,Groceries,0.33,1
+CUST0689,59,Female,San Francisco,Low,1480.6,153,Home & Furniture,0.72,3
+CUST0690,50,Male,Boston,Medium,1587.66,200,Home & Furniture,0.46,5
+CUST0691,47,Female,Houston,High,1653.25,16,Books,0.95,3
+CUST0692,20,Male,Seattle,Medium,2849.48,232,Electronics,0.23,3
+CUST0693,41,Male,Boston,Low,1319.52,149,Home & Furniture,0.4,3
+CUST0694,46,Male,Phoenix,Low,4335.88,336,Electronics,0.6,2
+CUST0695,63,Male,Seattle,High,688.02,31,Clothing,0.74,2
+CUST0696,28,Female,Seattle,Medium,879.12,295,Clothing,0.56,2
+CUST0697,46,Male,Denver,Low,434.81,154,Beauty & Health,0.33,5
+CUST0698,30,Male,Chicago,High,4835.55,259,Sports,0.07,5
+CUST0699,40,Female,Phoenix,Low,3563.87,11,Home & Furniture,0.99,3
+CUST0700,40,Female,San Francisco,High,3984.62,57,Groceries,0.67,2
+CUST0701,61,Male,Houston,Low,2666.08,79,Sports,0.26,1
+CUST0702,54,Male,Denver,High,2790.36,286,Sports,0.27,2
+CUST0703,48,Male,Denver,Medium,4629.57,30,Home & Furniture,0.09,2
+CUST0704,28,Female,Los Angeles,High,1795.74,84,Electronics,0.17,3
+CUST0705,35,Male,Los Angeles,Medium,236.59,249,Clothing,0.55,3
+CUST0706,29,Female,Phoenix,Low,980.54,307,Groceries,0.23,3
+CUST0707,35,Male,New York,High,2883.61,113,Electronics,0.15,2
+CUST0708,42,Male,Phoenix,Low,1202.4,279,Groceries,0.1,5
+CUST0709,49,Male,Phoenix,Low,1760.88,319,Sports,0.65,5
+CUST0710,21,Male,Chicago,Low,192.55,333,Groceries,0.47,3
+CUST0711,65,Male,Miami,Low,1485.3,345,Home & Furniture,0.56,3
+CUST0712,67,Female,Los Angeles,High,644.63,281,Groceries,0.63,1
+CUST0713,50,Female,Seattle,High,3846.65,32,Home & Furniture,0.64,1
+CUST0714,44,Male,Boston,High,1566.5,349,Books,0.18,5
+CUST0715,26,Male,Los Angeles,Low,4419.87,300,Sports,0.04,5
+CUST0716,49,Female,Miami,High,704.1,39,Groceries,0.77,5
+CUST0717,46,Male,San Francisco,Medium,4788.48,121,Electronics,0.76,2
+CUST0718,52,Female,Houston,High,266.61,274,Home & Furniture,0.5,2
+CUST0719,55,Male,San Francisco,Medium,2228.52,34,Sports,0.26,2
+CUST0720,54,Male,San Francisco,High,3448.12,103,Groceries,0.31,4
+CUST0721,33,Male,Boston,Medium,4506.67,91,Toys,0.24,3
+CUST0722,59,Female,New York,Low,2652.52,30,Clothing,0.49,4
+CUST0723,31,Male,Miami,Medium,4225.04,64,Toys,0.8,1
+CUST0724,62,Female,Seattle,Low,203.45,36,Toys,0.7,1
+CUST0725,65,Male,Denver,Low,683.51,228,Books,0.67,4
+CUST0726,64,Male,New York,High,3595.54,354,Beauty & Health,0.81,2
+CUST0727,67,Male,Phoenix,Medium,4995.98,35,Sports,0.22,3
+CUST0728,38,Male,Boston,Medium,1525.58,178,Sports,0.55,2
+CUST0729,28,Male,Houston,High,3909.22,174,Home & Furniture,0.22,1
+CUST0730,22,Female,Houston,High,1906.4,93,Home & Furniture,0.45,4
+CUST0731,21,Female,Boston,Low,94.21,96,Electronics,0.52,5
+CUST0732,29,Male,Houston,Low,681.19,44,Toys,0.17,1
+CUST0733,59,Female,Los Angeles,Medium,4071.87,80,Home & Furniture,0.58,3
+CUST0734,39,Female,Chicago,High,2879.18,206,Beauty & Health,0.11,3
+CUST0735,68,Female,Houston,High,727.9,167,Home & Furniture,0.17,1
+CUST0736,44,Male,Los Angeles,Medium,674.36,135,Beauty & Health,0.94,4
+CUST0737,26,Male,Boston,Medium,394.33,364,Groceries,0.79,2
+CUST0738,37,Male,New York,Low,3545.37,331,Sports,0.55,2
+CUST0739,54,Male,Denver,High,107.39,104,Clothing,0.51,4
+CUST0740,59,Female,New York,Medium,1980.95,113,Beauty & Health,0.05,1
+CUST0741,49,Male,Los Angeles,Medium,563.11,123,Electronics,0.37,2
+CUST0742,49,Female,Phoenix,Low,4495.98,171,Electronics,0.85,4
+CUST0743,39,Female,Miami,High,3178.37,259,Groceries,0.65,2
+CUST0744,60,Male,San Francisco,Low,4718.84,14,Books,0.21,4
+CUST0745,26,Male,Houston,High,3350.55,147,Clothing,0.27,5
+CUST0746,40,Male,New York,Medium,3592.6,27,Toys,0.44,1
+CUST0747,40,Female,Boston,Low,3609.47,274,Home & Furniture,0.06,3
+CUST0748,51,Female,San Francisco,Medium,4025.55,231,Beauty & Health,0.43,4
+CUST0749,33,Female,Miami,Low,3260.31,362,Electronics,0.76,2
+CUST0750,58,Male,Seattle,High,4853.86,2,Clothing,0.19,1
+CUST0751,46,Female,Denver,High,3288.96,105,Groceries,0.94,5
+CUST0752,43,Male,New York,High,3588.28,360,Beauty & Health,0.2,4
+CUST0753,61,Male,Los Angeles,Low,1965.72,107,Beauty & Health,0.67,3
+CUST0754,19,Female,Seattle,Medium,3793.31,40,Home & Furniture,0.05,3
+CUST0755,22,Male,Los Angeles,Medium,99.62,69,Home & Furniture,0.25,5
+CUST0756,31,Male,Miami,High,779.09,307,Toys,0.4,2
+CUST0757,58,Male,Chicago,High,4216.7,110,Toys,0.14,5
+CUST0758,25,Male,Miami,High,1316.41,56,Beauty & Health,0.28,2
+CUST0759,58,Female,Denver,Medium,2649.91,46,Home & Furniture,0.24,3
+CUST0760,18,Female,Chicago,Medium,698.06,246,Clothing,0.27,4
+CUST0761,70,Female,Denver,Medium,3472.33,24,Toys,0.3,2
+CUST0762,39,Female,Miami,Medium,893.59,278,Books,0.29,2
+CUST0763,68,Female,New York,High,1807.9,122,Books,0.98,1
+CUST0764,62,Female,Miami,High,1150.51,258,Sports,0.86,2
+CUST0765,25,Female,New York,High,2184.72,337,Beauty & Health,0.27,5
+CUST0766,50,Female,Denver,High,3369.84,306,Beauty & Health,0.58,2
+CUST0767,49,Female,Miami,Medium,3742.52,34,Groceries,0.05,3
+CUST0768,45,Female,Miami,Low,4675.72,88,Electronics,0.12,4
+CUST0769,61,Male,Seattle,Low,1568.47,205,Groceries,0.25,5
+CUST0770,22,Male,Los Angeles,Low,1494.44,272,Toys,0.94,2
+CUST0771,67,Female,Boston,Medium,4664.56,356,Electronics,0.56,5
+CUST0772,31,Female,Phoenix,High,3485.6,305,Sports,0.15,5
+CUST0773,57,Female,Denver,Low,3666.94,177,Electronics,0.97,2
+CUST0774,29,Female,Denver,Low,4326.23,351,Groceries,0.7,2
+CUST0775,18,Male,Chicago,Medium,2271.92,60,Electronics,0.56,4
+CUST0776,70,Male,San Francisco,High,2542.77,248,Groceries,0.95,3
+CUST0777,53,Female,Chicago,Medium,2827.31,362,Toys,0.0,2
+CUST0778,26,Male,Seattle,High,1304.72,113,Clothing,0.28,1
+CUST0779,20,Female,San Francisco,Low,151.89,316,Toys,0.47,4
+CUST0780,51,Male,Los Angeles,Low,310.19,228,Toys,0.54,4
+CUST0781,58,Male,Chicago,Medium,349.92,336,Beauty & Health,0.07,3
+CUST0782,56,Female,Denver,Low,1079.94,72,Home & Furniture,0.8,3
+CUST0783,45,Male,San Francisco,High,1003.64,260,Sports,0.2,3
+CUST0784,48,Female,Seattle,Low,1412.55,47,Sports,0.03,5
+CUST0785,65,Male,Denver,High,1760.86,360,Books,0.69,5
+CUST0786,19,Female,Seattle,Low,4632.18,232,Toys,0.21,1
+CUST0787,62,Male,Chicago,High,2333.55,190,Beauty & Health,0.04,3
+CUST0788,37,Female,Phoenix,High,3284.16,184,Electronics,0.8,3
+CUST0789,67,Male,Miami,Low,1526.18,16,Sports,0.05,1
+CUST0790,26,Female,New York,High,3885.29,345,Home & Furniture,0.67,3
+CUST0791,41,Male,Seattle,High,2746.09,318,Toys,0.42,4
+CUST0792,53,Female,San Francisco,High,2699.67,124,Groceries,1.0,2
+CUST0793,19,Female,Los Angeles,High,2459.59,328,Toys,0.71,5
+CUST0794,29,Male,Boston,Medium,1115.54,151,Home & Furniture,0.54,1
+CUST0795,37,Male,San Francisco,Medium,4690.95,49,Clothing,0.14,1
+CUST0796,59,Female,San Francisco,Low,552.31,245,Books,0.32,3
+CUST0797,48,Male,New York,Low,2743.22,290,Groceries,0.47,1
+CUST0798,37,Female,Miami,Medium,2051.25,222,Toys,0.07,1
+CUST0799,62,Male,Los Angeles,Low,3907.94,52,Clothing,0.08,4
+CUST0800,44,Female,Houston,Medium,3592.86,363,Clothing,0.34,2
+CUST0801,31,Female,Miami,High,4486.4,248,Beauty & Health,0.59,2
+CUST0802,46,Male,Miami,High,2940.71,196,Sports,0.53,3
+CUST0803,63,Female,Boston,High,3760.35,315,Home & Furniture,0.78,3
+CUST0804,55,Male,New York,Low,3253.48,2,Home & Furniture,0.12,1
+CUST0805,58,Female,Los Angeles,High,3507.21,322,Sports,0.03,2
+CUST0806,69,Female,Chicago,High,730.2,211,Clothing,0.14,3
+CUST0807,69,Female,Seattle,Low,381.02,248,Electronics,0.64,5
+CUST0808,28,Female,New York,Low,3643.65,8,Clothing,0.61,4
+CUST0809,26,Male,New York,High,3113.28,122,Clothing,0.24,4
+CUST0810,70,Male,New York,Low,4495.16,94,Clothing,0.13,1
+CUST0811,30,Male,Los Angeles,Medium,3564.21,348,Books,0.09,5
+CUST0812,46,Female,Boston,Low,2196.72,218,Groceries,0.46,3
+CUST0813,34,Female,Phoenix,Medium,2794.43,343,Clothing,0.47,1
+CUST0814,36,Female,Denver,High,2090.38,134,Clothing,0.14,1
+CUST0815,40,Male,Los Angeles,High,856.82,22,Sports,0.76,1
+CUST0816,70,Female,New York,Low,1149.55,211,Electronics,0.51,4
+CUST0817,69,Female,Los Angeles,Medium,741.38,23,Toys,0.83,2
+CUST0818,56,Male,Boston,Medium,2680.1,309,Home & Furniture,0.91,4
+CUST0819,49,Male,Denver,High,4868.88,335,Home & Furniture,0.28,5
+CUST0820,62,Female,Los Angeles,Medium,1474.03,67,Sports,0.77,4
+CUST0821,40,Female,Los Angeles,Low,2381.31,44,Home & Furniture,0.52,1
+CUST0822,56,Male,Boston,Low,3905.76,256,Clothing,0.75,4
+CUST0823,46,Male,Seattle,Low,4572.23,61,Beauty & Health,0.76,1
+CUST0824,23,Male,Chicago,Medium,3528.35,289,Beauty & Health,0.83,2
+CUST0825,60,Female,San Francisco,Medium,4987.69,129,Toys,0.56,2
+CUST0826,53,Female,Boston,Medium,4731.03,67,Sports,0.18,5
+CUST0827,36,Male,Denver,Low,4034.93,211,Clothing,0.43,4
+CUST0828,67,Male,San Francisco,High,960.87,202,Home & Furniture,0.89,4
+CUST0829,57,Female,Houston,Medium,3408.21,99,Books,0.18,3
+CUST0830,34,Male,Los Angeles,High,3567.87,81,Toys,0.97,1
+CUST0831,55,Female,Chicago,Medium,2837.94,277,Beauty & Health,0.86,4
+CUST0832,36,Male,San Francisco,High,4408.61,204,Clothing,0.51,2
+CUST0833,31,Female,Houston,Low,4552.33,284,Home & Furniture,0.73,4
+CUST0834,28,Female,Houston,Medium,3387.3,252,Home & Furniture,0.76,2
+CUST0835,40,Female,Denver,Low,4074.17,3,Books,0.9,2
+CUST0836,45,Male,San Francisco,Low,575.43,178,Home & Furniture,0.65,1
+CUST0837,54,Female,Los Angeles,Low,3431.16,133,Electronics,0.28,2
+CUST0838,45,Female,Seattle,High,2726.55,137,Home & Furniture,0.65,4
+CUST0839,20,Male,Denver,High,709.71,338,Toys,0.23,1
+CUST0840,70,Female,San Francisco,High,796.11,112,Sports,0.51,1
+CUST0841,67,Female,Denver,High,2939.72,298,Clothing,0.73,5
+CUST0842,45,Female,Phoenix,High,3564.85,330,Groceries,0.95,2
+CUST0843,44,Male,Phoenix,Low,3940.98,212,Toys,0.42,5
+CUST0844,48,Female,Boston,High,2883.97,34,Books,0.95,3
+CUST0845,52,Male,Denver,Medium,3396.58,102,Clothing,0.35,4
+CUST0846,60,Female,New York,Medium,3181.01,77,Books,0.91,3
+CUST0847,63,Male,Miami,Medium,2097.87,269,Books,0.23,2
+CUST0848,32,Female,San Francisco,Low,2256.45,14,Groceries,0.74,4
+CUST0849,29,Female,Phoenix,Low,2520.67,108,Home & Furniture,0.79,1
+CUST0850,59,Female,San Francisco,Low,3782.81,56,Beauty & Health,0.27,4
+CUST0851,53,Female,New York,Low,4879.5,359,Sports,0.17,2
+CUST0852,51,Male,Los Angeles,Medium,2780.78,330,Sports,0.46,4
+CUST0853,38,Female,Phoenix,High,55.41,336,Electronics,0.75,1
+CUST0854,45,Female,Chicago,Medium,4338.19,11,Sports,0.05,4
+CUST0855,24,Female,Houston,Low,1986.31,188,Clothing,0.72,2
+CUST0856,38,Male,New York,High,2747.7,196,Toys,0.43,1
+CUST0857,34,Male,San Francisco,Low,2808.59,137,Beauty & Health,0.82,5
+CUST0858,46,Female,Chicago,Low,2773.13,349,Books,0.42,2
+CUST0859,62,Male,San Francisco,Low,2801.77,132,Toys,0.51,3
+CUST0860,30,Female,Chicago,Medium,2347.07,181,Home & Furniture,0.82,1
+CUST0861,60,Female,New York,Low,410.64,179,Home & Furniture,0.64,2
+CUST0862,33,Male,Houston,High,2504.22,250,Clothing,0.96,3
+CUST0863,39,Female,Los Angeles,High,2941.37,134,Electronics,0.36,3
+CUST0864,20,Male,Houston,High,741.53,234,Home & Furniture,0.1,2
+CUST0865,33,Female,Chicago,Low,2227.7,137,Electronics,0.36,5
+CUST0866,41,Male,Chicago,High,1913.52,231,Electronics,0.68,2
+CUST0867,59,Male,Boston,Medium,3609.74,212,Electronics,0.04,2
+CUST0868,59,Male,Seattle,Medium,4180.8,261,Home & Furniture,0.93,4
+CUST0869,41,Female,Chicago,Low,1386.55,189,Books,0.3,2
+CUST0870,56,Female,Denver,Low,4410.49,302,Sports,0.54,4
+CUST0871,56,Female,Boston,Medium,1363.0,356,Toys,0.96,3
+CUST0872,23,Female,Los Angeles,Medium,1765.57,13,Beauty & Health,0.5,5
+CUST0873,58,Female,Phoenix,Medium,261.02,44,Beauty & Health,0.01,2
+CUST0874,65,Female,Denver,Medium,1081.09,316,Books,0.76,5
+CUST0875,20,Female,Chicago,High,3554.63,38,Groceries,0.05,1
+CUST0876,39,Male,San Francisco,Low,622.9,168,Electronics,0.53,4
+CUST0877,60,Female,Boston,High,1724.27,111,Electronics,0.33,4
+CUST0878,47,Female,Chicago,High,4893.16,100,Toys,0.37,1
+CUST0879,50,Male,Houston,High,4269.99,96,Groceries,0.18,2
+CUST0880,65,Male,Phoenix,Medium,4700.52,6,Clothing,0.68,5
+CUST0881,34,Female,Chicago,High,2891.49,9,Beauty & Health,0.29,5
+CUST0882,30,Female,Houston,Low,2937.14,218,Books,0.18,2
+CUST0883,43,Female,Denver,Low,76.74,95,Beauty & Health,0.85,4
+CUST0884,68,Male,Chicago,Medium,4333.67,182,Toys,0.67,4
+CUST0885,57,Female,New York,Medium,4203.76,14,Electronics,0.82,5
+CUST0886,32,Male,Los Angeles,Medium,791.38,59,Home & Furniture,0.64,5
+CUST0887,67,Male,Houston,Medium,4538.72,282,Sports,0.61,1
+CUST0888,52,Male,New York,Medium,4032.56,319,Electronics,0.88,5
+CUST0889,18,Female,Houston,High,2355.03,327,Groceries,0.76,1
+CUST0890,24,Female,San Francisco,High,677.76,186,Sports,0.2,5
+CUST0891,26,Male,Miami,High,3132.35,347,Toys,0.81,1
+CUST0892,35,Female,San Francisco,High,3930.29,220,Groceries,0.52,1
+CUST0893,63,Female,Seattle,High,3953.57,26,Sports,0.62,3
+CUST0894,40,Female,Phoenix,High,1677.93,180,Groceries,0.56,1
+CUST0895,67,Male,San Francisco,Low,4427.98,331,Sports,0.29,3
+CUST0896,39,Female,Boston,Medium,1779.36,2,Sports,0.72,2
+CUST0897,44,Female,Houston,Medium,3903.41,131,Toys,0.84,4
+CUST0898,31,Female,Houston,High,4439.96,75,Clothing,0.09,1
+CUST0899,52,Female,Chicago,Medium,1878.58,140,Books,0.99,2
+CUST0900,55,Female,New York,Low,735.87,287,Groceries,0.23,3
+CUST0901,40,Female,New York,Low,4914.93,169,Books,0.34,2
+CUST0902,28,Female,Miami,Medium,3806.61,291,Beauty & Health,0.6,5
+CUST0903,47,Female,Denver,Medium,959.75,63,Electronics,0.37,5
+CUST0904,53,Female,Miami,Medium,4200.35,359,Electronics,0.78,5
+CUST0905,51,Male,Denver,High,2947.07,173,Groceries,0.01,3
+CUST0906,61,Male,Phoenix,Medium,2606.4,94,Sports,0.45,1
+CUST0907,25,Female,Houston,Low,3296.27,359,Clothing,0.53,4
+CUST0908,45,Male,Denver,Low,3392.92,113,Home & Furniture,0.82,1
+CUST0909,46,Female,Houston,Medium,2342.38,289,Clothing,0.33,1
+CUST0910,46,Male,Houston,High,1582.73,208,Sports,0.68,4
+CUST0911,54,Male,Houston,High,3866.41,332,Clothing,0.61,2
+CUST0912,40,Male,Seattle,Low,4535.3,167,Books,0.36,5
+CUST0913,33,Male,Los Angeles,High,3840.67,92,Electronics,0.91,4
+CUST0914,63,Male,Boston,High,651.29,350,Groceries,0.51,4
+CUST0915,45,Female,New York,Low,1074.15,130,Sports,0.71,5
+CUST0916,54,Male,Denver,High,380.09,293,Books,0.89,1
+CUST0917,19,Female,Denver,Low,3261.76,176,Groceries,0.94,1
+CUST0918,41,Male,Chicago,High,723.39,233,Books,0.48,5
+CUST0919,21,Female,Denver,Medium,3703.93,89,Beauty & Health,0.03,3
+CUST0920,22,Female,San Francisco,Low,509.15,157,Clothing,0.29,3
+CUST0921,36,Male,Chicago,High,728.71,122,Beauty & Health,0.91,4
+CUST0922,36,Female,Miami,Medium,164.7,147,Groceries,0.36,1
+CUST0923,46,Male,Denver,High,54.78,76,Home & Furniture,0.0,4
+CUST0924,51,Female,Boston,Low,2227.69,216,Sports,0.34,1
+CUST0925,70,Female,Phoenix,Medium,1956.15,94,Toys,0.57,4
+CUST0926,22,Female,Phoenix,Medium,488.78,104,Beauty & Health,0.57,4
+CUST0927,32,Male,Phoenix,High,2008.68,286,Clothing,0.32,4
+CUST0928,48,Male,Denver,High,1472.33,133,Beauty & Health,0.86,2
+CUST0929,24,Female,Los Angeles,Low,154.87,148,Sports,0.68,4
+CUST0930,20,Male,San Francisco,Medium,1567.14,251,Books,0.68,2
+CUST0931,26,Male,Boston,High,4023.64,45,Beauty & Health,0.86,1
+CUST0932,66,Male,Denver,Medium,1422.73,155,Home & Furniture,0.79,1
+CUST0933,41,Female,Chicago,Low,4695.52,138,Electronics,0.33,4
+CUST0934,39,Male,Seattle,Low,871.56,350,Beauty & Health,0.18,2
+CUST0935,38,Male,Denver,Medium,3006.31,356,Books,0.36,2
+CUST0936,29,Female,Phoenix,Medium,4257.34,312,Books,0.61,4
+CUST0937,19,Male,Chicago,High,4413.93,54,Groceries,0.13,1
+CUST0938,34,Male,Chicago,Low,4411.97,344,Beauty & Health,0.5,4
+CUST0939,49,Male,Houston,Low,4538.18,59,Books,0.15,5
+CUST0940,58,Female,New York,Low,3570.67,142,Beauty & Health,0.65,2
+CUST0941,58,Female,San Francisco,Medium,1222.44,66,Books,0.0,3
+CUST0942,34,Male,Miami,Medium,1137.18,356,Groceries,0.17,1
+CUST0943,66,Female,Miami,Medium,1116.0,281,Home & Furniture,0.1,1
+CUST0944,22,Female,Boston,Low,4675.02,35,Electronics,0.35,2
+CUST0945,70,Female,San Francisco,High,1261.36,218,Home & Furniture,0.06,3
+CUST0946,61,Female,New York,Low,68.35,20,Clothing,0.68,5
+CUST0947,21,Male,Phoenix,Medium,4894.43,215,Electronics,0.78,5
+CUST0948,58,Female,Phoenix,Low,308.11,221,Beauty & Health,0.19,4
+CUST0949,66,Female,Phoenix,High,2565.68,188,Home & Furniture,0.86,3
+CUST0950,59,Female,Denver,Low,552.64,34,Home & Furniture,0.91,2
+CUST0951,46,Male,Los Angeles,Medium,2408.68,48,Beauty & Health,0.87,4
+CUST0952,22,Female,Denver,Low,2053.85,191,Electronics,0.32,5
+CUST0953,22,Male,Boston,High,4145.93,84,Sports,0.78,5
+CUST0954,60,Male,Phoenix,High,1040.25,116,Clothing,0.52,4
+CUST0955,34,Male,Houston,Low,2913.71,325,Toys,0.68,3
+CUST0956,31,Male,Los Angeles,Low,1968.21,274,Electronics,0.35,1
+CUST0957,70,Male,Los Angeles,High,4608.68,136,Books,0.06,3
+CUST0958,60,Male,Miami,High,463.56,184,Groceries,0.7,5
+CUST0959,18,Female,Chicago,Medium,2377.14,336,Groceries,0.74,4
+CUST0960,60,Male,Miami,Medium,1572.39,235,Books,0.95,5
+CUST0961,55,Male,Phoenix,High,3523.43,125,Toys,0.76,3
+CUST0962,33,Female,Denver,High,1618.74,326,Sports,0.13,4
+CUST0963,33,Female,New York,Medium,2956.87,144,Beauty & Health,0.74,4
+CUST0964,31,Female,Miami,Medium,2370.74,228,Beauty & Health,0.24,5
+CUST0965,46,Male,Phoenix,Low,1878.38,337,Beauty & Health,0.64,5
+CUST0966,61,Male,Denver,High,2140.42,126,Beauty & Health,0.09,5
+CUST0967,67,Male,New York,High,4704.43,62,Electronics,0.88,1
+CUST0968,50,Female,Boston,Low,966.83,181,Beauty & Health,0.16,1
+CUST0969,54,Female,San Francisco,Medium,1638.87,166,Groceries,0.24,2
+CUST0970,19,Female,Houston,Low,3296.78,147,Electronics,0.93,2
+CUST0971,39,Female,Boston,Low,1234.27,260,Groceries,0.4,5
+CUST0972,52,Male,Boston,Medium,1112.93,334,Electronics,0.56,5
+CUST0973,50,Female,Phoenix,Medium,585.63,139,Electronics,0.79,4
+CUST0974,58,Male,Chicago,Low,382.52,275,Books,0.44,3
+CUST0975,61,Male,Seattle,Low,4696.47,136,Toys,0.31,4
+CUST0976,70,Male,Miami,High,898.83,272,Home & Furniture,0.12,5
+CUST0977,40,Male,Boston,High,507.48,72,Toys,0.93,5
+CUST0978,31,Male,Miami,Medium,704.17,115,Clothing,0.59,2
+CUST0979,23,Female,Chicago,Low,3256.51,53,Clothing,0.8,3
+CUST0980,55,Female,Houston,Low,3650.77,201,Clothing,0.11,2
+CUST0981,48,Female,Boston,Low,61.49,114,Electronics,0.25,3
+CUST0982,35,Female,Phoenix,High,1662.13,202,Beauty & Health,0.73,2
+CUST0983,68,Female,Phoenix,Low,2925.32,305,Home & Furniture,0.4,2
+CUST0984,55,Female,Miami,High,4647.08,198,Electronics,0.92,1
+CUST0985,66,Male,Miami,High,1482.7,355,Sports,0.47,2
+CUST0986,49,Female,Seattle,High,3883.7,292,Books,0.34,3
+CUST0987,69,Male,Houston,Low,4995.35,296,Beauty & Health,0.38,4
+CUST0988,66,Male,Chicago,Medium,4595.41,336,Home & Furniture,0.2,3
+CUST0989,57,Female,Miami,Medium,1673.78,191,Electronics,0.63,2
+CUST0990,24,Female,New York,High,4590.54,311,Groceries,0.75,3
+CUST0991,35,Female,Houston,Low,1418.71,93,Clothing,0.5,1
+CUST0992,55,Female,Miami,Low,194.05,172,Toys,0.81,5
+CUST0993,40,Female,Boston,Medium,261.31,330,Sports,0.17,4
+CUST0994,21,Male,Houston,High,579.37,185,Beauty & Health,0.52,3
+CUST0995,45,Female,Seattle,Medium,680.89,311,Clothing,0.3,2
+CUST0996,47,Female,Chicago,High,1745.02,222,Beauty & Health,0.67,3
+CUST0997,25,Male,Chicago,Medium,1273.84,232,Groceries,0.72,4
+CUST0998,70,Male,San Francisco,Medium,3014.75,336,Books,0.69,2
+CUST0999,18,Male,Boston,Medium,2742.55,242,Groceries,0.37,4
+CUST1000,68,Male,Seattle,Low,1451.35,331,Books,0.86,4

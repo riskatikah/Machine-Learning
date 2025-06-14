@@ -1,0 +1,91 @@
+Student_ID,Class,Final_Grade,Final_Exam_Score,Participation_Score,Attendance_Rate,Assignment_Score,Assignment_Completion_Rate,Study_Hours_Per_Week,Parental_Education_Level,Num_Friends
+Student_1,Math,A,78.0,7,57.8,60.0,66.69,2,High School,51
+Student_1,Art,C,79.0,4,80.58,,,9,High School,65
+Student_1,Science,B,96.0,6,73.34,56.0,53.25,13,High School,8
+Student_2,Math,A,,6,91.66,66.0,83.13,5,Master's,3
+Student_2,Art,E,67.0,1,96.33,64.0,59.8,Unknown,High School,12
+Student_2,Science,E,73.0,8,58.26,,69.74,10,Bachelor's,7
+Student_3,Math,A,82.0,9,55.79,57.0,54.77,4,High School,7
+Student_3,Art,A,84.0,4,92.45,63.0,76.14,9,High School,2
+Student_3,Science,B,,3,84.78,88.0,87.78,6,Master's,5
+Student_4,Math,E,91.0,8,72.83,69.0,76.97,6,High School,0
+Student_4,Art,E,62.0,6,76.7,82.0,66.88,8,High School,13
+Student_4,Science,E,61.0,1,57.4,98.0,70.55,Unknown,Bachelor's,0
+Student_5,Math,B,51.0,9,62.1,60.0,62.11,4,Bachelor's,5
+Student_5,Art,E,97.0,8,59.33,,83.88,Unknown,Bachelor's,2
+Student_5,Science,A,56.0,0,75.89,60.0,55.67,9,High School,11
+Student_6,Math,D,97.0,0,54.66,86.0,59.44,18,Bachelor's,2
+Student_6,Art,C,82.0,10,89.27,84.0,97.01,17,High School,1
+Student_6,Science,B,84.0,8,50.9,97.0,82.48,16,Bachelor's,11
+Student_7,Math,A,71.0,5,74.34,76.0,75.13,0,High School,12
+Student_7,Art,D,53.0,Missing,58.86,78.0,94.17,4,High School,0
+Student_7,Science,C,80.0,0,65.28,82.0,58.47,2,Bachelor's,7
+Student_8,Math,E,96.0,1,64.76,89.0,85.12,9,Bachelor's,2
+Student_8,Art,A,73.0,9,,69.0,85.1,11,Master's,14
+Student_8,Science,D,51.0,5,57.75,71.0,51.53,Unknown,Master's,5
+Student_9,Math,A,86.0,4,98.26,55.0,76.57,7,Bachelor's,12
+Student_9,Art,A,91.0,0,71.68,75.0,,8,Master's,0
+Student_9,Science,C,50.0,5,83.01,65.0,82.86,2,Master's,2
+Student_10,Math,E,78.0,4,65.57,54.0,54.89,6,Bachelor's,13
+Student_10,Art,E,72.0,Missing,94.33,59.0,75.16,4,High School,7
+Student_10,Science,A,51.0,Missing,97.01,99.0,56.43,10,High School,2
+Student_11,Math,B,89.0,1,,72.0,65.95,1,Bachelor's,6
+Student_11,Art,A,99.0,7,90.17,59.0,78.43,2,High School,1
+Student_11,Science,A,81.0,4,83.99,84.0,95.13,15,Bachelor's,12
+Student_12,Math,C,98.0,8,67.75,80.0,78.67,4,Bachelor's,8
+Student_12,Art,C,70.0,6,55.67,88.0,52.79,10,High School,14
+Student_12,Science,C,59.0,0,54.21,91.0,94.59,4,Bachelor's,7
+Student_13,Math,B,50.0,0,99.3,55.0,74.08,6,Master's,9
+Student_13,Art,C,52.0,1,52.82,90.0,84.05,16,Master's,82
+Student_13,Science,A,55.0,4,,86.0,84.77,14,Master's,13
+Student_14,Math,B,50.0,5,86.86,59.0,94.51,7,Master's,3
+Student_14,Art,B,99.0,4,99.31,66.0,70.56,15,High School,13
+Student_14,Science,D,,2,80.67,79.0,52.26,Unknown,Bachelor's,0
+Student_15,Math,C,96.0,4,69.65,98.0,73.43,0,Master's,55
+Student_15,Art,E,54.0,5,79.26,59.0,62.37,13,High School,12
+Student_15,Science,C,50.0,1,55.68,83.0,91.57,0,High School,4
+Student_16,Math,B,,0,51.44,70.0,90.25,1,High School,1
+Student_16,Art,C,64.0,1,75.7,79.0,93.12,3,Bachelor's,0
+Student_16,Science,C,69.0,1,67.37,92.0,53.79,15,High School,5
+Student_17,Math,B,53.0,7,93.72,81.0,59.61,Unknown,Master's,11
+Student_17,Art,C,71.0,0,67.8,98.0,84.52,Unknown,High School,8
+Student_17,Science,D,79.0,0,90.31,64.0,96.2,13,Bachelor's,12
+Student_18,Math,D,,2,94.76,96.0,,5,High School,14
+Student_18,Art,C,86.0,6,60.57,93.0,67.15,9,High School,12
+Student_18,Science,B,85.0,1,79.33,91.0,68.15,1,Master's,10
+Student_19,Math,E,86.0,4,57.64,53.0,54.39,8,Master's,80
+Student_19,Art,C,85.0,5,98.47,55.0,74.54,1,Master's,7
+Student_19,Science,E,94.0,5,85.55,69.0,55.74,5,Bachelor's,10
+Student_20,Math,E,62.0,0,72.71,59.0,66.12,0,Bachelor's,8
+Student_20,Art,C,60.0,5,67.44,93.0,96.65,1,High School,2
+Student_20,Science,B,71.0,Missing,91.4,79.0,59.32,13,Master's,3
+Student_21,Math,D,91.0,7,85.69,87.0,71.94,16,High School,6
+Student_21,Art,A,89.0,6,96.99,57.0,58.34,0,High School,6
+Student_21,Science,B,78.0,0,88.93,53.0,88.12,0,Master's,12
+Student_22,Math,B,85.0,3,89.86,96.0,88.59,Unknown,Master's,3
+Student_22,Art,D,92.0,3,95.42,57.0,64.4,12,Master's,1
+Student_22,Science,A,96.0,10,78.26,86.0,57.63,8,Bachelor's,12
+Student_23,Math,D,90.0,6,61.8,85.0,96.04,18,Master's,4
+Student_23,Art,D,58.0,8,,74.0,96.15,1,Master's,10
+Student_23,Science,C,,5,74.92,73.0,89.02,17,Master's,6
+Student_24,Math,A,90.0,5,76.75,56.0,53.35,18,Master's,13
+Student_24,Art,A,94.0,7,64.7,99.0,72.04,5,Master's,3
+Student_24,Science,E,78.0,2,63.54,82.0,,17,Bachelor's,7
+Student_25,Math,C,,7,75.28,96.0,94.37,7,High School,81
+Student_25,Art,C,81.0,10,97.22,63.0,94.82,Unknown,Bachelor's,72
+Student_25,Science,B,97.0,3,85.2,54.0,62.97,11,Bachelor's,4
+Student_26,Math,A,79.0,4,97.42,73.0,78.29,16,Master's,0
+Student_26,Art,C,89.0,8,56.97,53.0,95.03,4,Master's,67
+Student_26,Science,B,91.0,5,70.26,61.0,50.55,5,Master's,1
+Student_27,Math,A,56.0,0,69.16,51.0,86.9,3,Master's,12
+Student_27,Art,C,89.0,3,64.86,83.0,97.7,0,Master's,14
+Student_27,Science,E,84.0,0,79.84,75.0,67.22,0,Master's,10
+Student_28,Math,B,74.0,2,50.12,87.0,68.05,16,High School,9
+Student_28,Art,C,98.0,7,81.95,86.0,92.46,11,High School,9
+Student_28,Science,E,,9,99.97,71.0,51.7,8,Master's,7
+Student_29,Math,A,72.0,3,65.96,66.0,68.23,12,Master's,86
+Student_29,Art,C,75.0,6,76.97,74.0,76.01,11,Bachelor's,6
+Student_29,Science,A,83.0,Missing,76.45,84.0,50.47,16,High School,4
+Student_30,Math,C,65.0,8,70.89,54.0,50.17,17,Bachelor's,13
+Student_30,Art,B,97.0,Missing,71.39,73.0,97.82,4,High School,55
+Student_30,Science,B,95.0,1,99.56,69.0,61.53,13,Master's,1

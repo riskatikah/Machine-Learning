@@ -1,0 +1,101 @@
+Customer_ID,Age_Group,Gender,Income_Level,Marital_Status,Occupation,Shopping_Frequency,Purchase_History,Preferred_Brand,Recommended_Product
+CUST_001,Senior,Male,Medium,Divorced,Professional,Moderate,"['Clothing', 'Beauty Products']",No Preference,Home Decor
+CUST_002,Adult,Female,Low,Divorced,Student,Frequent,"['Electronics', 'Groceries']",No Preference,Home Decor
+CUST_003,Adult,Female,High,Single,Retired,Moderate,"['Gaming Accessories', 'Fitness Equipment']",No Preference,Clothing
+CUST_004,Adult,Female,High,Single,Retired,Moderate,"['Gaming Accessories', 'Groceries', 'Fitness Equipment', 'Home Decor']",Brand_C,Books
+CUST_005,Adult,Female,High,Married,Student,Frequent,"['Sports Gear', 'Gaming Accessories', 'Fitness Equipment', 'Clothing']",No Preference,Books
+CUST_006,Adult,Male,Low,Single,Retired,Moderate,"['Home Decor', 'Beauty Products', 'Sports Gear']",Brand_B,Fitness Equipment
+CUST_007,Young,Male,Medium,Single,Entrepreneur,Frequent,"['Groceries', 'Home Decor']",No Preference,Books
+CUST_008,Young,Male,Low,Married,Student,Frequent,"['Toys', 'Home Decor', 'Groceries', 'Sports Gear', 'Clothing']",No Preference,Electronics
+CUST_009,Young,Female,High,Single,Entrepreneur,Frequent,"['Toys', 'Books', 'Fitness Equipment', 'Electronics', 'Clothing']",No Preference,Sports Gear
+CUST_010,Adult,Male,Low,Single,Entrepreneur,Rare,"['Home Decor', 'Gaming Accessories', 'Fitness Equipment']",Brand_E,Groceries
+CUST_011,Adult,Female,Medium,Married,Entrepreneur,Moderate,"['Clothing', 'Home Decor', 'Fitness Equipment', 'Gaming Accessories', 'Groceries']",Brand_C,Electronics
+CUST_012,Senior,Male,High,Divorced,Entrepreneur,Moderate,"['Fitness Equipment', 'Gaming Accessories']",No Preference,Home Decor
+CUST_013,Young,Male,Medium,Married,Retired,Rare,"['Home Decor', 'Groceries']",Brand_D,Electronics
+CUST_014,Adult,Female,Low,Single,Student,Rare,"['Books', 'Clothing', 'Groceries']",Brand_C,Home Decor
+CUST_015,Adult,Female,High,Single,Retired,Moderate,"['Clothing', 'Beauty Products', 'Gaming Accessories', 'Toys']",Brand_E,Sports Gear
+CUST_016,Adult,Male,Medium,Married,Retired,Rare,"['Toys', 'Gaming Accessories']",No Preference,Clothing
+CUST_017,Young,Male,Medium,Single,Entrepreneur,Moderate,"['Gaming Accessories', 'Clothing', 'Beauty Products']",Brand_E,Electronics
+CUST_018,Young,Male,Low,Divorced,Student,Moderate,"['Books', 'Sports Gear']",No Preference,Beauty Products
+CUST_019,Adult,Female,Low,Divorced,Student,Rare,"['Fitness Equipment', 'Clothing', 'Beauty Products']",No Preference,Home Decor
+CUST_020,Senior,Male,High,Divorced,Student,Moderate,"['Books', 'Electronics', 'Gaming Accessories']",Brand_C,Clothing
+CUST_021,Young,Male,Low,Married,Professional,Moderate,"['Electronics', 'Fitness Equipment', 'Clothing', 'Books', 'Groceries']",No Preference,Sports Gear
+CUST_022,Adult,Female,Medium,Single,Entrepreneur,Rare,"['Home Decor', 'Gaming Accessories', 'Beauty Products']",Brand_B,Groceries
+CUST_023,Senior,Female,High,Single,Retired,Frequent,"['Gaming Accessories', 'Groceries', 'Beauty Products']",No Preference,Fitness Equipment
+CUST_024,Adult,Female,High,Divorced,Student,Rare,"['Groceries', 'Gaming Accessories', 'Fitness Equipment', 'Books', 'Toys']",Brand_A,Sports Gear
+CUST_025,Senior,Male,High,Married,Professional,Rare,"['Electronics', 'Gaming Accessories', 'Clothing', 'Sports Gear', 'Groceries']",Brand_E,Beauty Products
+CUST_026,Senior,Male,Medium,Married,Professional,Moderate,"['Electronics', 'Clothing', 'Toys', 'Groceries', 'Gaming Accessories']",No Preference,Sports Gear
+CUST_027,Senior,Female,Low,Divorced,Retired,Frequent,"['Groceries', 'Gaming Accessories', 'Sports Gear']",Brand_A,Toys
+CUST_028,Young,Female,Low,Divorced,Retired,Frequent,"['Groceries', 'Toys', 'Sports Gear', 'Electronics']",Brand_A,Books
+CUST_029,Senior,Female,High,Married,Professional,Moderate,"['Groceries', 'Fitness Equipment', 'Books']",Brand_D,Gaming Accessories
+CUST_030,Senior,Female,Medium,Married,Entrepreneur,Rare,"['Gaming Accessories', 'Groceries', 'Books', 'Beauty Products', 'Home Decor']",No Preference,Clothing
+CUST_031,Young,Male,High,Divorced,Entrepreneur,Rare,"['Home Decor', 'Clothing']",Brand_A,Fitness Equipment
+CUST_032,Senior,Male,Low,Married,Retired,Moderate,"['Beauty Products', 'Home Decor']",No Preference,Toys
+CUST_033,Senior,Female,High,Single,Professional,Moderate,"['Toys', 'Beauty Products', 'Sports Gear', 'Electronics', 'Groceries']",Brand_E,Home Decor
+CUST_034,Adult,Female,High,Single,Retired,Moderate,"['Sports Gear', 'Electronics']",No Preference,Gaming Accessories
+CUST_035,Senior,Female,Low,Divorced,Entrepreneur,Moderate,"['Toys', 'Beauty Products']",Brand_D,Gaming Accessories
+CUST_036,Adult,Female,High,Divorced,Student,Frequent,"['Clothing', 'Fitness Equipment', 'Home Decor', 'Groceries']",Brand_E,Beauty Products
+CUST_037,Young,Female,Low,Divorced,Professional,Frequent,"['Electronics', 'Sports Gear']",No Preference,Home Decor
+CUST_038,Young,Female,Low,Divorced,Professional,Frequent,"['Sports Gear', 'Toys', 'Groceries', 'Beauty Products', 'Electronics']",No Preference,Fitness Equipment
+CUST_039,Senior,Male,Medium,Divorced,Student,Moderate,"['Books', 'Sports Gear']",Brand_A,Electronics
+CUST_040,Young,Male,Medium,Divorced,Professional,Rare,"['Sports Gear', 'Toys', 'Groceries', 'Beauty Products']",Brand_D,Books
+CUST_041,Senior,Male,High,Married,Student,Frequent,"['Sports Gear', 'Fitness Equipment', 'Clothing', 'Groceries']",Brand_C,Gaming Accessories
+CUST_042,Senior,Female,Medium,Single,Entrepreneur,Frequent,"['Home Decor', 'Gaming Accessories', 'Sports Gear']",Brand_D,Clothing
+CUST_043,Adult,Female,Low,Married,Professional,Rare,"['Fitness Equipment', 'Books', 'Electronics', 'Gaming Accessories']",Brand_A,Beauty Products
+CUST_044,Senior,Female,Medium,Divorced,Professional,Frequent,"['Electronics', 'Fitness Equipment', 'Groceries']",Brand_C,Beauty Products
+CUST_045,Senior,Male,Low,Married,Retired,Frequent,"['Beauty Products', 'Groceries', 'Fitness Equipment', 'Home Decor', 'Clothing']",Brand_E,Toys
+CUST_046,Senior,Female,Low,Married,Student,Rare,"['Home Decor', 'Groceries', 'Electronics']",No Preference,Fitness Equipment
+CUST_047,Young,Female,High,Single,Retired,Moderate,"['Books', 'Electronics']",No Preference,Sports Gear
+CUST_048,Adult,Male,Low,Single,Professional,Moderate,"['Clothing', 'Gaming Accessories']",No Preference,Sports Gear
+CUST_049,Senior,Female,High,Married,Professional,Moderate,"['Clothing', 'Electronics', 'Gaming Accessories', 'Toys', 'Books']",Brand_A,Home Decor
+CUST_050,Young,Female,High,Single,Student,Frequent,"['Electronics', 'Clothing', 'Books']",Brand_A,Toys
+CUST_051,Adult,Female,High,Married,Retired,Rare,"['Beauty Products', 'Books']",Brand_E,Sports Gear
+CUST_052,Senior,Male,High,Single,Professional,Rare,"['Books', 'Beauty Products', 'Toys', 'Clothing']",Brand_E,Home Decor
+CUST_053,Young,Male,High,Single,Student,Moderate,"['Groceries', 'Gaming Accessories']",No Preference,Toys
+CUST_054,Young,Male,High,Married,Student,Moderate,"['Groceries', 'Gaming Accessories', 'Books', 'Toys']",No Preference,Fitness Equipment
+CUST_055,Senior,Female,Medium,Divorced,Entrepreneur,Frequent,"['Gaming Accessories', 'Toys', 'Groceries', 'Books']",Brand_E,Home Decor
+CUST_056,Young,Male,High,Divorced,Entrepreneur,Moderate,"['Fitness Equipment', 'Sports Gear', 'Gaming Accessories', 'Books', 'Beauty Products']",Brand_D,Electronics
+CUST_057,Senior,Female,High,Married,Entrepreneur,Rare,"['Gaming Accessories', 'Beauty Products', 'Fitness Equipment', 'Electronics', 'Groceries']",Brand_D,Books
+CUST_058,Adult,Male,Low,Single,Student,Moderate,"['Electronics', 'Clothing', 'Books', 'Home Decor', 'Sports Gear']",No Preference,Fitness Equipment
+CUST_059,Adult,Male,Medium,Divorced,Retired,Rare,"['Books', 'Electronics', 'Fitness Equipment', 'Home Decor', 'Clothing']",No Preference,Sports Gear
+CUST_060,Young,Male,High,Married,Professional,Frequent,"['Toys', 'Home Decor', 'Books']",No Preference,Fitness Equipment
+CUST_061,Adult,Female,High,Single,Entrepreneur,Rare,"['Toys', 'Beauty Products']",Brand_C,Gaming Accessories
+CUST_062,Adult,Male,Medium,Single,Retired,Moderate,"['Beauty Products', 'Groceries', 'Home Decor']",Brand_A,Sports Gear
+CUST_063,Young,Female,Medium,Single,Retired,Moderate,"['Toys', 'Fitness Equipment', 'Sports Gear']",Brand_B,Books
+CUST_064,Senior,Male,Low,Divorced,Student,Rare,"['Home Decor', 'Toys']",No Preference,Fitness Equipment
+CUST_065,Adult,Female,Low,Divorced,Professional,Rare,"['Clothing', 'Electronics']",No Preference,Sports Gear
+CUST_066,Senior,Male,Medium,Single,Retired,Moderate,"['Home Decor', 'Gaming Accessories', 'Electronics']",No Preference,Fitness Equipment
+CUST_067,Young,Male,Low,Divorced,Professional,Frequent,"['Clothing', 'Fitness Equipment', 'Books']",No Preference,Beauty Products
+CUST_068,Senior,Female,Medium,Married,Student,Moderate,"['Electronics', 'Clothing', 'Home Decor']",No Preference,Beauty Products
+CUST_069,Senior,Male,Low,Divorced,Retired,Rare,"['Electronics', 'Beauty Products', 'Groceries', 'Clothing']",Brand_B,Toys
+CUST_070,Adult,Male,Medium,Single,Retired,Rare,"['Beauty Products', 'Home Decor', 'Sports Gear', 'Books', 'Groceries']",Brand_B,Toys
+CUST_071,Young,Female,Medium,Single,Professional,Moderate,"['Gaming Accessories', 'Groceries', 'Books']",No Preference,Fitness Equipment
+CUST_072,Young,Male,High,Married,Professional,Moderate,"['Sports Gear', 'Books']",No Preference,Groceries
+CUST_073,Young,Male,Low,Married,Student,Rare,"['Electronics', 'Groceries', 'Books']",No Preference,Sports Gear
+CUST_074,Young,Male,Medium,Divorced,Retired,Rare,"['Gaming Accessories', 'Clothing', 'Toys', 'Groceries']",Brand_C,Home Decor
+CUST_075,Senior,Male,Medium,Married,Student,Moderate,"['Books', 'Toys', 'Fitness Equipment']",Brand_C,Gaming Accessories
+CUST_076,Senior,Female,Low,Single,Retired,Frequent,"['Electronics', 'Groceries', 'Toys']",Brand_C,Home Decor
+CUST_077,Adult,Female,Low,Divorced,Professional,Rare,"['Groceries', 'Gaming Accessories', 'Home Decor', 'Sports Gear', 'Books']",Brand_A,Fitness Equipment
+CUST_078,Adult,Female,High,Single,Entrepreneur,Frequent,"['Fitness Equipment', 'Home Decor', 'Beauty Products', 'Groceries']",Brand_C,Sports Gear
+CUST_079,Adult,Female,Medium,Married,Professional,Rare,"['Books', 'Toys', 'Fitness Equipment']",No Preference,Electronics
+CUST_080,Senior,Female,Medium,Divorced,Retired,Moderate,"['Electronics', 'Books', 'Toys']",No Preference,Beauty Products
+CUST_081,Young,Male,Low,Divorced,Retired,Rare,"['Beauty Products', 'Toys', 'Groceries', 'Gaming Accessories']",No Preference,Sports Gear
+CUST_082,Senior,Female,Low,Divorced,Student,Rare,"['Fitness Equipment', 'Books', 'Gaming Accessories', 'Toys']",No Preference,Beauty Products
+CUST_083,Young,Female,High,Single,Professional,Moderate,"['Beauty Products', 'Home Decor', 'Sports Gear', 'Clothing', 'Fitness Equipment']",No Preference,Gaming Accessories
+CUST_084,Adult,Male,Low,Single,Student,Rare,"['Books', 'Electronics', 'Groceries', 'Clothing']",No Preference,Gaming Accessories
+CUST_085,Adult,Male,Medium,Single,Professional,Frequent,"['Clothing', 'Gaming Accessories', 'Home Decor', 'Groceries', 'Beauty Products']",Brand_B,Electronics
+CUST_086,Senior,Female,Medium,Single,Professional,Frequent,"['Clothing', 'Sports Gear']",Brand_A,Electronics
+CUST_087,Adult,Female,High,Single,Student,Moderate,"['Toys', 'Beauty Products', 'Groceries', 'Gaming Accessories', 'Fitness Equipment']",Brand_D,Electronics
+CUST_088,Adult,Male,Medium,Divorced,Retired,Frequent,"['Groceries', 'Fitness Equipment', 'Clothing', 'Toys', 'Sports Gear']",Brand_D,Beauty Products
+CUST_089,Senior,Female,Medium,Divorced,Entrepreneur,Moderate,"['Groceries', 'Beauty Products', 'Toys', 'Clothing']",Brand_C,Sports Gear
+CUST_090,Young,Male,Medium,Single,Professional,Moderate,"['Home Decor', 'Sports Gear']",Brand_A,Gaming Accessories
+CUST_091,Senior,Male,Medium,Married,Entrepreneur,Frequent,"['Groceries', 'Beauty Products']",No Preference,Books
+CUST_092,Adult,Male,High,Single,Entrepreneur,Moderate,"['Groceries', 'Electronics']",No Preference,Home Decor
+CUST_093,Senior,Female,Medium,Divorced,Professional,Moderate,"['Electronics', 'Sports Gear']",Brand_D,Home Decor
+CUST_094,Adult,Male,Low,Married,Professional,Moderate,"['Books', 'Beauty Products']",No Preference,Groceries
+CUST_095,Senior,Male,High,Single,Retired,Rare,"['Sports Gear', 'Home Decor']",No Preference,Fitness Equipment
+CUST_096,Adult,Male,High,Single,Entrepreneur,Moderate,"['Toys', 'Sports Gear']",No Preference,Beauty Products
+CUST_097,Adult,Female,High,Single,Professional,Moderate,"['Fitness Equipment', 'Toys', 'Beauty Products']",Brand_D,Groceries
+CUST_098,Senior,Female,Medium,Married,Professional,Rare,"['Toys', 'Electronics', 'Gaming Accessories']",Brand_D,Books
+CUST_099,Senior,Male,High,Single,Retired,Frequent,"['Books', 'Toys', 'Gaming Accessories', 'Sports Gear', 'Electronics']",No Preference,Beauty Products
+CUST_100,Young,Female,Low,Single,Professional,Moderate,"['Clothing', 'Toys']",No Preference,Sports Gear
